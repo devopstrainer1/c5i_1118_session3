@@ -1,0 +1,1201 @@
+claim_id,policy_id,policyholder_name,region,claim_type,claim_date,amount_paid_inr_lakh,status,adjuster_notes
+CLM-Q3-00001,POL-10714,Vikram Iyer,East,Motor,2026-07-01,0.411,Paid,
+CLM-Q3-00002,POL-10669,Pankaj Reddy,East,Motor,2026-07-01,1.154,Paid,
+CLM-Q3-00003,POL-10687,Aditya Nair,East,Motor,2026-07-01,0.201,Paid,
+CLM-Q3-00004,POL-10071,Divya Yadav,North,Motor,2026-07-01,0.277,Paid,
+CLM-Q3-00005,POL-10009,Deepak Desai,North,Health,2026-07-01,0.196,Paid,Garage estimate revised
+CLM-Q3-00006,POL-10129,Naveen Kumar,North,Health,2026-07-01,0.434,Paid,
+CLM-Q3-00007,POL-10189,Sanjay Kumar,North,Property,2026-07-01,0.298,Paid,
+CLM-Q3-00008,POL-10507,Vivaan Sharma,South,Health,2026-07-01,0.521,Paid,
+CLM-Q3-00009,POL-10602,Kavita Menon,South,Motor,2026-07-01,0.323,Paid,Documents verified
+CLM-Q3-00010,POL-10595,Nisha Das,South,Health,2026-07-01,0.439,Paid,
+CLM-Q3-00011,POL-10264,Tanvi Bose,West,Motor,2026-07-01,0.399,Paid,
+CLM-Q3-00012,POL-10344,Shweta Joshi,West,Property,2026-07-01,0.756,Paid,
+CLM-Q3-00013,POL-10197,Shweta Kumar,North,Motor,2026-07-02,0.168,Paid,Customer called for status
+CLM-Q3-00014,POL-10229,Ishaan Shah,North,Health,2026-07-02,0.234,Paid,
+CLM-Q3-00015,POL-10031,Varun Iyer,North,Travel,2026-07-02,0.044,Paid,
+CLM-Q3-00016,POL-10116,Sneha Rao,North,Motor,2026-07-02,0.157,Paid,
+CLM-Q3-00017,POL-10088,Ritu Menon,North,Travel,2026-07-02,0.069,Paid,
+CLM-Q3-00018,POL-10202,Pankaj Mehta,North,Health,2026-07-02,1.483,Paid,
+CLM-Q3-00018,POL-10202,Pankaj Mehta,North,Health,2026-07-02,1.483,Paid,
+CLM-Q3-00019,POL-10453,Vikram Chauhan,South,Motor,2026-07-02,0.871,Paid,Documents verified
+CLM-Q3-00020,POL-10630,Pooja Chatterjee,South,Health,2026-07-02,0.393,Paid,
+CLM-Q3-00021,POL-10461,Nisha Bose,South,Motor,2026-07-02,0.306,Paid,
+CLM-Q3-00022,POL-10539,Shweta Gupta,South,Health,2026-07-02,0.183,Paid,
+CLM-Q3-00023,POL-10574,Deepak Das,South,Health,2026-07-02,0.794,Paid,
+CLM-Q3-00024,POL-10649,Harsh Reddy,South,Motor,2026-07-02,0.698,Paid,
+CLM-Q3-00025,POL-10308,Gaurav Patel,West,Property,2026-07-02,0.460,Paid,Fast-track approval
+CLM-Q3-00026,POL-10247,Sunita Shah,West,Motor,2026-07-02,0.260,Paid,
+CLM-Q3-00027,POL-10406,Meera Tiwari,West,Motor,2026-07-02,0.581,Paid,Customer called for status
+CLM-Q3-00028,POL-10391,Anita Shah,West,Motor,2026-07-02,0.351,Paid,
+CLM-Q3-00029,POL-10295,Varun Rao,West,Property,2026-07-02,0.648,Paid,
+CLM-Q3-00030,POL-10315,Rahul Verma,West,Health,2026-07-02,0.246,Paid,
+CLM-Q3-00031,POL-10755,Pankaj Nair,East,Health,2026-07-03,0.421,Paid,
+CLM-Q3-00032,POL-10732,Sneha Joshi,East,Health,2026-07-03,0.236,Paid,Documents verified
+CLM-Q3-00033,POL-10769,Sunita Kulkarni,East,Health,2026-07-03,0.283,Paid,Fast-track approval
+CLM-Q3-00034,POL-10211,Divya Nair,North,Motor,2026-07-03,0.296,Paid,
+CLM-Q3-00035,POL-10024,Nisha Banerjee,North,Health,2026-07-03,0.767,Paid,
+CLM-Q3-00036,POL-10648,Gaurav Singh,South,Property,2026-07-03,0.795,Paid,
+CLM-Q3-00037,POL-10541,Ritu Iyer,South,Motor,2026-07-03,0.282,Paid,
+CLM-Q3-00038,POL-10472,Amit Gupta,South,Property,2026-07-03,0.884,Paid,
+CLM-Q3-00039,POL-10553,Varun Sharma,South,Travel,2026-07-03,0.054,Paid,
+CLM-Q3-00040,POL-10245,Neha Ansari,West,Motor,2026-07-03,0.243,Paid,Reimbursement - bills attached
+CLM-Q3-00041,POL-10264,Tanvi Bose,West,Motor,2026-07-03,0.092,Paid,
+CLM-Q3-00042,POL-10254,Mohit Mishra,West,Health,2026-07-03,0.491,Paid,
+CLM-Q3-00043,POL-10327,Sneha Singh,West,Motor,2026-07-03,0.944,Paid,Second inspection done
+CLM-Q3-00043,POL-10327,Sneha Singh,West,Motor,2026-07-03,0.944,Paid,Second inspection done
+CLM-Q3-00044,POL-10692,Harsh Pillai,East,Health,2026-07-04,0.411,Paid,
+CLM-Q3-00045,POL-10780,Lata Reddy,East,Motor,2026-07-04,0.373,Paid,
+CLM-Q3-00046,POL-10727,Priya Singh,East,Property,2026-07-04,0.614,Paid,
+CLM-Q3-00047,POL-10080,Rohan Sharma,North,Motor,2026-07-04,0.204,Paid,
+CLM-Q3-00048,POL-10106,Aarav Agarwal,North,Property,2026-07-04,0.508,Paid,
+CLM-Q3-00049,POL-10174,Manoj Iyer,North,Motor,2026-07-04,0.893,Paid,
+CLM-Q3-00049,POL-10174,Manoj Iyer,North,Motor,2026-07-04,0.893,Paid,
+CLM-Q3-00050,POL-10588,Suresh Verma,South,Motor,2026-07-04,0.300,Paid,Customer called for status
+CLM-Q3-00051,POL-10604,Amit Nair,South,Motor,2026-07-04,0.185,Paid,
+CLM-Q3-00052,POL-10459,Gaurav Sinha,South,Motor,2026-07-04,0.270,Paid,
+CLM-Q3-00053,POL-10499,Varun Mishra,South,Property,2026-07-04,0.652,Paid,
+CLM-Q3-00054,POL-10527,Komal Mishra,South,Motor,2026-07-04,0.360,Paid,
+CLM-Q3-00055,POL-10268,Lata Sharma,West,Motor,2026-07-04,0.418,Paid,
+CLM-Q3-00056,POL-10400,Karan Agarwal,West,Property,2026-07-04,0.512,Paid,Documents verified
+CLM-Q3-00057,POL-10253,Meera Gupta,West,Health,2026-07-04,0.780,Paid,
+CLM-Q3-00057,POL-10253,Meera Gupta,West,Health,2026-07-04,0.780,Paid,
+CLM-Q3-00058,POL-10685,Rahul Mishra,East,Health,2026-07-05,0.298,Paid,
+CLM-Q3-00059,POL-10162,Ishaan Ansari,North,Motor,2026-07-05,0.361,Paid,Surveyor report received
+CLM-Q3-00060,POL-10005,Karan Singh,North,Motor,2026-07-05,0.262,Paid,
+CLM-Q3-00061,POL-10125,Vikram Das,North,Motor,2026-07-05,0.405,Paid,Surveyor report received
+CLM-Q3-00062,POL-10495,Meera Nair,South,Motor,2026-07-05,0.361,Paid,
+CLM-Q3-00063,POL-10621,Neha Joshi,South,Property,2026-07-05,1.066,Paid,
+CLM-Q3-00064,POL-10484,Rohan Agarwal,South,Motor,2026-07-05,0.539,Paid,
+CLM-Q3-00065,POL-10541,Ritu Iyer,South,Property,2026-07-05,0.213,Paid,
+CLM-Q3-00066,POL-10419,Shweta Shah,West,Motor,2026-07-05,0.272,Paid,Customer called for status
+CLM-Q3-00067,POL-10178,Karan Bose,North,Travel,2026-07-06,0.138,Paid,
+CLM-Q3-00068,POL-10182,Rahul Chauhan,North,Property,2026-07-06,0.511,Paid,
+CLM-Q3-00069,POL-10605,Suresh Mishra,South,Motor,2026-07-06,0.523,Paid,Surveyor report received
+CLM-Q3-00070,POL-10531,Aditya Menon,South,Property,2026-07-06,1.948,Paid,
+CLM-Q3-00071,POL-10326,Neha Rao,West,Motor,2026-07-06,0.301,Paid,
+CLM-Q3-00072,POL-10417,Harsh Verma,West,Motor,2026-07-06,0.292,Paid,
+CLM-Q3-00073,POL-10277,Harsh Tiwari,West,Health,2026-07-06,0.259,Paid,
+CLM-Q3-00073,POL-10277,Harsh Tiwari,West,Health,2026-07-06,0.259,Paid,
+CLM-Q3-00074,POL-10777,Sanjay Gupta,East,Travel,2026-07-07,0.066,Paid,
+CLM-Q3-00075,POL-10062,Meera Chatterjee,North,Motor,2026-07-07,0.242,Paid,
+CLM-Q3-00076,POL-10182,Rahul Chauhan,North,Property,2026-07-07,0.848,Paid,Documents verified
+CLM-Q3-00077,POL-10094,Aditya Kumar,North,Motor,2026-07-07,0.496,Paid,
+CLM-Q3-00078,POL-10068,Suresh Banerjee,North,Motor,2026-07-07,0.316,Paid,Garage estimate revised
+CLM-Q3-00079,POL-10080,Rohan Sharma,North,Motor,2026-07-07,0.289,Paid,
+CLM-Q3-00080,POL-10626,Rekha Menon,South,Health,2026-07-07,0.650,Paid,
+CLM-Q3-00081,POL-10438,Suresh Singh,South,Health,2026-07-07,0.417,Paid,
+CLM-Q3-00082,POL-10590,Amit Bose,South,Motor,2026-07-07,0.338,Paid,
+CLM-Q3-00083,POL-10391,Anita Shah,West,Health,2026-07-07,0.466,Paid,
+CLM-Q3-00084,POL-10413,Anil Agarwal,West,Travel,2026-07-07,0.074,Paid,
+CLM-Q3-00085,POL-10238,Pankaj Bose,West,Motor,2026-07-07,0.685,Paid,
+CLM-Q3-00086,POL-10394,Naveen Desai,West,Motor,2026-07-07,0.192,Paid,
+CLM-Q3-00087,POL-10770,Sanjay Desai,East,Motor,2026-07-08,0.775,Paid,
+CLM-Q3-00088,POL-10666,Anita Menon,East,Property,2026-07-08,0.552,Paid,
+CLM-Q3-00089,POL-10196,Manoj Sinha,North,Property,2026-07-08,0.752,Paid,Cashless approved
+CLM-Q3-00090,POL-10061,Sneha Patel,North,Health,2026-07-08,0.788,Paid,
+CLM-Q3-00091,POL-10549,Seema Kulkarni,South,Health,2026-07-08,0.272,Paid,
+CLM-Q3-00092,POL-10636,Suresh Khan,South,Motor,2026-07-08,0.099,Paid,
+CLM-Q3-00093,POL-10579,Seema Mishra,South,Motor,2026-07-08,0.198,Paid,
+CLM-Q3-00094,POL-10593,Amit Desai,South,Motor,2026-07-08,0.444,Paid,
+CLM-Q3-00095,POL-10554,Divya Tiwari,South,Health,2026-07-08,0.884,Paid,Fast-track approval
+CLM-Q3-00096,POL-10505,Amit Sharma,South,Property,2026-07-08,0.673,Paid,
+CLM-Q3-00097,POL-10301,Neha Banerjee,West,Motor,2026-07-08,0.381,Paid,
+CLM-Q3-00098,POL-10411,Manoj Das,West,Health,2026-07-08,0.441,Paid,
+CLM-Q3-00099,POL-10282,Shweta Khan,West,Health,2026-07-08,0.245,Paid,
+CLM-Q3-00100,POL-10274,Varun Chauhan,West,Health,2026-07-08,0.656,Paid,
+CLM-Q3-00101,POL-10744,Kavita Verma,East,Travel,2026-07-09,0.070,Paid,Surveyor report received
+CLM-Q3-00102,POL-10691,Priya Nair,East,Property,2026-07-09,1.010,Paid,
+CLM-Q3-00103,POL-10769,Sunita Kulkarni,East,Motor,2026-07-09,0.247,Paid,
+CLM-Q3-00104,POL-10685,Rahul Mishra,East,Property,2026-07-09,1.053,Paid,Fast-track approval
+CLM-Q3-00105,POL-10007,Komal Jain,North,Motor,2026-07-09,0.224,Paid,Cashless approved
+CLM-Q3-00106,POL-10003,Seema Yadav,North,Motor,2026-07-09,0.429,Paid,
+CLM-Q3-00107,POL-10200,Meera Reddy,North,Health,2026-07-09,0.292,Paid,
+CLM-Q3-00108,POL-10600,Amit Joshi,South,Motor,2026-07-09,0.772,Paid,
+CLM-Q3-00109,POL-10526,Neha Reddy,South,Motor,2026-07-09,0.290,Paid,
+CLM-Q3-00110,POL-10444,Neha Mishra,South,Motor,2026-07-09,0.728,Paid,
+CLM-Q3-00111,POL-10283,Rekha Sharma,West,Motor,2026-07-09,0.178,Paid,Second inspection done
+CLM-Q3-00112,POL-10359,Aarav Rao,West,Travel,2026-07-09,0.116,Paid,
+CLM-Q3-00113,POL-10294,Naveen Sinha,West,Motor,2026-07-09,0.202,Paid,Garage estimate revised
+CLM-Q3-00114,POL-10667,Tanvi Rao,East,Motor,2026-07-10,0.168,Paid,Customer called for status
+CLM-Q3-00115,POL-10679,Aarav Verma,East,Health,2026-07-10,0.341,Paid,
+CLM-Q3-00116,POL-10774,Suresh Agarwal,East,Health,2026-07-10,0.246,Paid,Garage estimate revised
+CLM-Q3-00117,POL-10662,Pooja Mehta,East,Property,2026-07-10,0.467,Paid,
+CLM-Q3-00118,POL-10128,Mohit Sharma,North,Health,2026-07-10,0.354,Paid,Second inspection done
+CLM-Q3-00119,POL-10090,Suresh Nair,North,Health,2026-07-10,0.453,Paid,
+CLM-Q3-00120,POL-10410,Aarav Patel,West,Motor,2026-07-10,0.319,Paid,Garage estimate revised
+CLM-Q3-00121,POL-10682,Gaurav Rao,East,Health,2026-07-11,0.216,Paid,Second inspection done
+CLM-Q3-00122,POL-10230,Pooja Ansari,North,Health,2026-07-11,0.452,Paid,
+CLM-Q3-00123,POL-10157,Meera Kumar,North,Health,2026-07-11,0.420,Paid,
+CLM-Q3-00124,POL-10148,Divya Reddy,North,Motor,2026-07-11,0.380,Paid,
+CLM-Q3-00125,POL-10616,Rohan Nair,South,Health,2026-07-11,0.558,Paid,
+CLM-Q3-00126,POL-10587,Seema Gupta,South,Health,2026-07-11,0.307,Paid,
+CLM-Q3-00127,POL-10458,Vikram Mehta,South,Health,2026-07-11,0.244,Paid,
+CLM-Q3-00128,POL-10507,Vivaan Sharma,South,Property,2026-07-11,0.459,Paid,
+CLM-Q3-00129,POL-10418,Sneha Ansari,West,Motor,2026-07-11,0.207,Paid,
+CLM-Q3-00130,POL-10720,Kavita Reddy,East,Motor,2026-07-12,0.350,Paid,Garage estimate revised
+CLM-Q3-00131,POL-10148,Divya Reddy,North,Motor,2026-07-12,0.650,Paid,
+CLM-Q3-00132,POL-10088,Ritu Menon,North,Motor,2026-07-12,0.371,Paid,Documents verified
+CLM-Q3-00133,POL-10084,Ishaan Tiwari,North,Health,2026-07-12,0.633,Paid,Surveyor report received
+CLM-Q3-00134,POL-10229,Ishaan Shah,North,Health,2026-07-12,0.463,Paid,
+CLM-Q3-00135,POL-10081,Meera Banerjee,North,Motor,2026-07-12,0.339,Paid,
+CLM-Q3-00135,POL-10081,Meera Banerjee,North,Motor,2026-07-12,0.339,Paid,
+CLM-Q3-00136,POL-10437,Pankaj Das,South,Motor,2026-07-12,0.150,Paid,
+CLM-Q3-00137,POL-10562,Sunita Joshi,South,Property,2026-07-12,0.319,Paid,
+CLM-Q3-00138,POL-10565,Nisha Agarwal,South,Property,2026-07-12,1.224,Paid,
+CLM-Q3-00139,POL-10399,Divya Bose,West,Health,2026-07-12,0.607,Paid,
+CLM-Q3-00140,POL-10335,Meera Pillai,West,Motor,2026-07-12,0.300,Paid,
+CLM-Q3-00141,POL-10314,Harsh Khan,West,Motor,2026-07-12,0.299,Paid,
+CLM-Q3-00142,POL-10241,Neha Chatterjee,West,Motor,2026-07-12,0.192,Paid,
+CLM-Q3-00143,POL-10233,Amit Mishra,West,Motor,2026-07-12,0.334,Paid,Customer called for status
+CLM-Q3-00144,POL-10707,Divya Rao,East,Motor,2026-07-13,0.157,Paid,
+CLM-Q3-00145,POL-10749,Anita Mishra,East,Health,2026-07-13,0.421,Paid,
+CLM-Q3-00145,POL-10749,Anita Mishra,East,Health,2026-07-13,0.421,Paid,
+CLM-Q3-00146,POL-10022,Naveen Iyer,North,Property,2026-07-13,0.437,Paid,
+CLM-Q3-00147,POL-10067,Aarav Gupta,North,Health,2026-07-13,0.259,Paid,
+CLM-Q3-00148,POL-10098,Vikram Patel,North,Health,2026-07-13,0.373,Paid,
+CLM-Q3-00149,POL-10531,Aditya Menon,South,Health,2026-07-13,0.314,Paid,
+CLM-Q3-00150,POL-10558,Karan Mehta,South,Health,2026-07-13,0.298,Paid,
+CLM-Q3-00151,POL-10486,Harsh Das,South,Motor,2026-07-13,0.325,Paid,
+CLM-Q3-00152,POL-10563,Karan Chauhan,South,Health,2026-07-13,0.311,Paid,
+CLM-Q3-00153,POL-10492,Meera Shah,South,Motor,2026-07-13,0.182,Paid,
+CLM-Q3-00154,POL-10610,Sanjay Das,South,Motor,2026-07-13,0.238,Paid,
+CLM-Q3-00155,POL-10454,Varun Kumar,South,Health,2026-07-13,0.124,Paid,
+CLM-Q3-00156,POL-10458,Vikram Mehta,South,Motor,2026-07-13,1.166,Paid,
+CLM-Q3-00156,POL-10458,Vikram Mehta,South,Motor,2026-07-13,1.166,Paid,
+CLM-Q3-00157,POL-10295,Varun Rao,West,Property,2026-07-13,0.653,Paid,
+CLM-Q3-00158,POL-10325,Shweta Desai,West,Motor,2026-07-13,0.376,Paid,
+CLM-Q3-00159,POL-10311,Pankaj Kulkarni,West,Motor,2026-07-13,0.407,Paid,
+CLM-Q3-00160,POL-10698,Rahul Kulkarni,East,Property,2026-07-14,0.874,Paid,
+CLM-Q3-00161,POL-10724,Karan Kulkarni,East,Motor,2026-07-14,0.372,Paid,Fast-track approval
+CLM-Q3-00162,POL-10157,Meera Kumar,North,Health,2026-07-14,0.443,Paid,
+CLM-Q3-00163,POL-10107,Arjun Joshi,North,Motor,2026-07-14,0.154,Paid,
+CLM-Q3-00164,POL-10057,Anita Khan,North,Health,2026-07-14,0.352,Paid,
+CLM-Q3-00165,POL-10025,Divya Sharma,North,Motor,2026-07-14,0.206,Paid,
+CLM-Q3-00166,POL-10082,Rahul Joshi,North,Motor,2026-07-14,0.223,Paid,
+CLM-Q3-00167,POL-10087,Manoj Bose,North,Motor,2026-07-14,0.590,Paid,
+CLM-Q3-00168,POL-10644,Vivaan Rao,South,Motor,2026-07-14,0.501,Paid,Cashless approved
+CLM-Q3-00169,POL-10281,Deepak Iyer,West,Motor,2026-07-14,0.432,Paid,
+CLM-Q3-00170,POL-10708,Sneha Bose,East,Motor,2026-07-15,0.352,Paid,
+CLM-Q3-00171,POL-10745,Aarav Shah,East,Motor,2026-07-15,0.340,Paid,
+CLM-Q3-00172,POL-10164,Sanjay Reddy,North,Health,2026-07-15,0.548,Paid,Reimbursement - bills attached
+CLM-Q3-00173,POL-10165,Sunita Tiwari,North,Health,2026-07-15,0.913,Paid,
+CLM-Q3-00174,POL-10120,Mohit Pillai,North,Property,2026-07-15,0.237,Paid,
+CLM-Q3-00175,POL-10133,Rahul Reddy,North,Travel,2026-07-15,0.227,Paid,
+CLM-Q3-00176,POL-10100,Sanjay Joshi,North,Health,2026-07-15,0.287,Paid,
+CLM-Q3-00177,POL-10022,Naveen Iyer,North,Property,2026-07-15,0.795,Paid,
+CLM-Q3-00178,POL-10009,Deepak Desai,North,Motor,2026-07-15,0.228,Paid,Cashless approved
+CLM-Q3-00179,POL-10222,Tanvi Yadav,North,Motor,2026-07-15,0.748,Paid,
+CLM-Q3-00179,POL-10222,Tanvi Yadav,North,Motor,2026-07-15,0.748,Paid,
+CLM-Q3-00180,POL-10007,Komal Jain,North,Health,2026-07-15,0.797,Paid,
+CLM-Q3-00180,POL-10007,Komal Jain,North,Health,2026-07-15,0.797,Paid,
+CLM-Q3-00181,POL-10625,Harsh Rao,South,Travel,2026-07-15,0.105,Paid,
+CLM-Q3-00182,POL-10468,Shweta Yadav,South,Health,2026-07-15,0.647,Paid,
+CLM-Q3-00183,POL-10577,Neha Jain,South,Property,2026-07-15,0.771,Paid,
+CLM-Q3-00184,POL-10341,Kavita Patel,West,Health,2026-07-15,0.410,Paid,
+CLM-Q3-00185,POL-10410,Aarav Patel,West,Property,2026-07-15,0.386,Paid,Reimbursement - bills attached
+CLM-Q3-00186,POL-10243,Shweta Das,West,Motor,2026-07-15,0.351,Paid,
+CLM-Q3-00187,POL-10361,Rekha Singh,West,Motor,2026-07-15,0.145,Paid,
+CLM-Q3-00188,POL-10324,Meera Ansari,West,Travel,2026-07-15,0.063,Paid,Fast-track approval
+CLM-Q3-00189,POL-10774,Suresh Agarwal,East,Motor,2026-07-16,0.238,Paid,Cashless approved
+CLM-Q3-00190,POL-10659,Kavita Banerjee,East,Travel,2026-07-16,0.163,Paid,
+CLM-Q3-00191,POL-10059,Priya Das,North,Property,2026-07-16,0.604,Paid,
+CLM-Q3-00192,POL-10055,Anita Agarwal,North,Health,2026-07-16,0.359,Paid,
+CLM-Q3-00193,POL-10057,Anita Khan,North,Health,2026-07-16,0.416,Paid,
+CLM-Q3-00194,POL-10594,Sunita Khan,South,Motor,2026-07-16,0.153,Paid,
+CLM-Q3-00195,POL-10483,Vikram Kulkarni,South,Motor,2026-07-16,0.172,Paid,Reimbursement - bills attached
+CLM-Q3-00196,POL-10441,Karan Kumar,South,Property,2026-07-16,0.324,Paid,
+CLM-Q3-00197,POL-10592,Karan Khan,South,Motor,2026-07-16,0.400,Paid,Cashless approved
+CLM-Q3-00198,POL-10531,Aditya Menon,South,Health,2026-07-16,0.261,Paid,
+CLM-Q3-00199,POL-10554,Divya Tiwari,South,Travel,2026-07-16,0.110,Paid,
+CLM-Q3-00200,POL-10390,Nisha Sinha,West,Health,2026-07-16,0.504,Paid,
+CLM-Q3-00201,POL-10291,Arjun Tiwari,West,Motor,2026-07-16,0.283,Paid,Surveyor report received
+CLM-Q3-00202,POL-10428,Sanjay Kulkarni,West,Motor,2026-07-16,0.466,Paid,Reimbursement - bills attached
+CLM-Q3-00203,POL-10235,Sunita Das,West,Travel,2026-07-16,0.064,Paid,
+CLM-Q3-00204,POL-10697,Harsh Kumar,East,Motor,2026-07-17,0.676,Paid,Reimbursement - bills attached
+CLM-Q3-00205,POL-10199,Arjun Singh,North,Motor,2026-07-17,0.430,Paid,
+CLM-Q3-00206,POL-10129,Naveen Kumar,North,Health,2026-07-17,0.520,Paid,
+CLM-Q3-00207,POL-10150,Sanjay Yadav,North,Health,2026-07-17,0.244,Paid,Cashless approved
+CLM-Q3-00208,POL-10183,Ishaan Joshi,North,Health,2026-07-17,0.628,Paid,
+CLM-Q3-00209,POL-10057,Anita Khan,North,Property,2026-07-17,0.302,Paid,
+CLM-Q3-00210,POL-10112,Anita Patel,North,Property,2026-07-17,0.353,Paid,
+CLM-Q3-00211,POL-10260,Rekha Mehta,West,Motor,2026-07-17,0.286,Paid,
+CLM-Q3-00212,POL-10276,Mohit Nair,West,Property,2026-07-17,0.230,Paid,
+CLM-Q3-00213,POL-10667,Tanvi Rao,East,Motor,2026-07-18,0.260,Paid,
+CLM-Q3-00214,POL-10709,Vivaan Verma,East,Travel,2026-07-18,0.074,Paid,Customer called for status
+CLM-Q3-00215,POL-10230,Pooja Ansari,North,Motor,2026-07-18,0.279,Paid,Second inspection done
+CLM-Q3-00216,POL-10227,Suresh Shah,North,Property,2026-07-18,0.213,Paid,
+CLM-Q3-00217,POL-10643,Nisha Chatterjee,South,Motor,2026-07-18,0.157,Paid,
+CLM-Q3-00218,POL-10438,Suresh Singh,South,Motor,2026-07-18,0.400,Paid,
+CLM-Q3-00219,POL-10459,Gaurav Sinha,South,Health,2026-07-18,0.155,Paid,
+CLM-Q3-00220,POL-10501,Arjun Khan,South,Health,2026-07-18,0.243,Paid,Second inspection done
+CLM-Q3-00221,POL-10264,Tanvi Bose,West,Property,2026-07-18,0.483,Paid,
+CLM-Q3-00222,POL-10428,Sanjay Kulkarni,West,Health,2026-07-18,0.494,Paid,Fast-track approval
+CLM-Q3-00223,POL-10338,Naveen Pillai,West,Motor,2026-07-18,0.239,Paid,
+CLM-Q3-00224,POL-10721,Tanvi Kumar,East,Health,2026-07-19,0.458,Paid,
+CLM-Q3-00225,POL-10710,Sanjay Menon,East,Health,2026-07-19,0.832,Paid,
+CLM-Q3-00226,POL-10775,Deepak Tiwari,East,Health,2026-07-19,0.357,Paid,
+CLM-Q3-00227,POL-10773,Amit Yadav,East,Health,2026-07-19,0.635,Paid,
+CLM-Q3-00227,POL-10773,Amit Yadav,East,Health,2026-07-19,0.635,Paid,
+CLM-Q3-00228,POL-10109,Kavita Yadav,North,Motor,2026-07-19,0.184,Paid,
+CLM-Q3-00229,POL-10011,Ishaan Kumar,North,Motor,2026-07-19,0.367,Paid,
+CLM-Q3-00230,POL-10109,Kavita Yadav,North,Motor,2026-07-19,0.433,Paid,
+CLM-Q3-00231,POL-10048,Ramesh Chauhan,North,Motor,2026-07-19,0.229,Paid,
+CLM-Q3-00232,POL-10495,Meera Nair,South,Health,2026-07-19,0.257,Paid,
+CLM-Q3-00233,POL-10435,Nisha Khan,South,Motor,2026-07-19,0.302,Paid,
+CLM-Q3-00234,POL-10588,Suresh Verma,South,Health,2026-07-19,0.334,Paid,
+CLM-Q3-00235,POL-10462,Anil Verma,South,Motor,2026-07-19,0.141,Paid,
+CLM-Q3-00236,POL-10452,Lata Rao,South,Motor,2026-07-19,0.491,Paid,
+CLM-Q3-00237,POL-10398,Shweta Chatterjee,West,Motor,2026-07-19,0.293,Paid,
+CLM-Q3-00238,POL-10409,Divya Pillai,West,Motor,2026-07-19,0.369,Paid,
+CLM-Q3-00239,POL-10327,Sneha Singh,West,Motor,2026-07-19,0.221,Paid,
+CLM-Q3-00240,POL-10757,Arjun Verma,East,Property,2026-07-20,0.714,Paid,Garage estimate revised
+CLM-Q3-00241,POL-10692,Harsh Pillai,East,Motor,2026-07-20,0.532,Paid,Documents verified
+CLM-Q3-00242,POL-10702,Naveen Khan,East,Property,2026-07-20,0.630,Paid,
+CLM-Q3-00243,POL-10030,Ritu Reddy,North,Travel,2026-07-20,0.082,Paid,Surveyor report received
+CLM-Q3-00244,POL-10064,Anil Ansari,North,Motor,2026-07-20,0.847,Paid,
+CLM-Q3-00245,POL-10098,Vikram Patel,North,Health,2026-07-20,0.169,Paid,
+CLM-Q3-00246,POL-10646,Anita Ansari,South,Property,2026-07-20,0.364,Paid,
+CLM-Q3-00247,POL-10476,Rohan Menon,South,Motor,2026-07-20,0.110,Paid,
+CLM-Q3-00248,POL-10497,Vivaan Reddy,South,Motor,2026-07-20,0.205,Paid,
+CLM-Q3-00249,POL-10556,Anil Kulkarni,South,Health,2026-07-20,0.124,Paid,Second inspection done
+CLM-Q3-00250,POL-10300,Priya Khan,West,Motor,2026-07-20,0.419,Paid,
+CLM-Q3-00250,POL-10300,Priya Khan,West,Motor,2026-07-20,0.419,Paid,
+CLM-Q3-00251,POL-10715,Amit Iyer,East,Health,2026-07-21,0.411,Paid,Garage estimate revised
+CLM-Q3-00252,POL-10694,Suresh Chauhan,East,Property,2026-07-21,0.764,Paid,
+CLM-Q3-00253,POL-10752,Aditya Chauhan,East,Health,2026-07-21,0.641,Paid,
+CLM-Q3-00254,POL-10770,Sanjay Desai,East,Motor,2026-07-21,0.490,Paid,
+CLM-Q3-00255,POL-10167,Mohit Jain,North,Health,2026-07-21,0.828,Paid,
+CLM-Q3-00256,POL-10222,Tanvi Yadav,North,Property,2026-07-21,0.912,Paid,
+CLM-Q3-00257,POL-10084,Ishaan Tiwari,North,Motor,2026-07-21,0.262,Paid,
+CLM-Q3-00258,POL-10053,Suresh Chatterjee,North,Motor,2026-07-21,0.398,Paid,Second inspection done
+CLM-Q3-00259,POL-10512,Divya Mehta,South,Property,2026-07-21,0.736,Paid,
+CLM-Q3-00260,POL-10566,Divya Gupta,South,Motor,2026-07-21,0.512,Paid,
+CLM-Q3-00261,POL-10649,Harsh Reddy,South,Motor,2026-07-21,0.294,Paid,
+CLM-Q3-00262,POL-10565,Nisha Agarwal,South,Property,2026-07-21,0.960,Paid,
+CLM-Q3-00263,POL-10267,Seema Reddy,West,Motor,2026-07-21,0.281,Paid,
+CLM-Q3-00264,POL-10320,Pankaj Pillai,West,Motor,2026-07-21,0.170,Paid,Documents verified
+CLM-Q3-00265,POL-10400,Karan Agarwal,West,Motor,2026-07-21,0.298,Paid,
+CLM-Q3-00266,POL-10299,Vivaan Singh,West,Health,2026-07-21,0.155,Paid,
+CLM-Q3-00267,POL-10362,Kavita Chatterjee,West,Property,2026-07-21,0.666,Paid,
+CLM-Q3-00268,POL-10674,Naveen Mishra,East,Health,2026-07-22,1.802,Paid,
+CLM-Q3-00269,POL-10654,Seema Banerjee,East,Health,2026-07-22,0.420,Paid,Fast-track approval
+CLM-Q3-00270,POL-10099,Naveen Jain,North,Property,2026-07-22,0.589,Paid,
+CLM-Q3-00271,POL-10531,Aditya Menon,South,Motor,2026-07-22,0.416,Paid,
+CLM-Q3-00272,POL-10509,Komal Sharma,South,Motor,2026-07-22,0.300,Paid,Second inspection done
+CLM-Q3-00273,POL-10282,Shweta Khan,West,Motor,2026-07-22,0.094,Paid,Reimbursement - bills attached
+CLM-Q3-00274,POL-10328,Anita Tiwari,West,Property,2026-07-22,0.407,Paid,Fast-track approval
+CLM-Q3-00275,POL-10244,Anita Verma,West,Travel,2026-07-22,0.213,Paid,
+CLM-Q3-00276,POL-10677,Ishaan Nair,East,Health,2026-07-23,0.587,Paid,
+CLM-Q3-00277,POL-10070,Rekha Jain,North,Motor,2026-07-23,0.346,Paid,
+CLM-Q3-00278,POL-10158,Shweta Menon,North,Health,2026-07-23,0.694,Paid,
+CLM-Q3-00279,POL-10489,Manoj Reddy,South,Motor,2026-07-23,0.312,Paid,
+CLM-Q3-00280,POL-10453,Vikram Chauhan,South,Motor,2026-07-23,0.160,Paid,
+CLM-Q3-00281,POL-10440,Anil Mishra,South,Motor,2026-07-23,0.386,Paid,
+CLM-Q3-00282,POL-10441,Karan Kumar,South,Health,2026-07-23,0.274,Paid,
+CLM-Q3-00283,POL-10553,Varun Sharma,South,Motor,2026-07-23,0.254,Paid,Second inspection done
+CLM-Q3-00284,POL-10368,Divya Khan,West,Health,2026-07-23,0.445,Paid,
+CLM-Q3-00285,POL-10273,Tanvi Kulkarni,West,Property,2026-07-23,0.507,Paid,
+CLM-Q3-00286,POL-10280,Anil Chatterjee,West,Health,2026-07-23,0.398,Paid,
+CLM-Q3-00287,POL-10365,Anita Mehta,West,Health,2026-07-23,0.704,Paid,
+CLM-Q3-00288,POL-10249,Varun Agarwal,West,Motor,2026-07-23,0.232,Paid,
+CLM-Q3-00289,POL-10758,Seema Joshi,East,Motor,2026-07-24,0.227,Paid,Customer called for status
+CLM-Q3-00290,POL-10656,Ishaan Iyer,East,Health,2026-07-24,0.190,Paid,
+CLM-Q3-00291,POL-10085,Anil Tiwari,North,Motor,2026-07-24,0.364,Paid,
+CLM-Q3-00292,POL-10080,Rohan Sharma,North,Health,2026-07-24,0.393,Paid,Garage estimate revised
+CLM-Q3-00293,POL-10026,Gaurav Chatterjee,North,Motor,2026-07-24,0.196,Paid,
+CLM-Q3-00294,POL-10100,Sanjay Joshi,North,Property,2026-07-24,0.580,Paid,
+CLM-Q3-00295,POL-10197,Shweta Kumar,North,Health,2026-07-24,0.289,Paid,
+CLM-Q3-00296,POL-10496,Gaurav Nair,South,Motor,2026-07-24,0.352,Paid,
+CLM-Q3-00297,POL-10593,Amit Desai,South,Travel,2026-07-24,0.115,Paid,
+CLM-Q3-00298,POL-10313,Rohan Chatterjee,West,Motor,2026-07-24,0.325,Paid,Cashless approved
+CLM-Q3-00299,POL-10289,Anita Nair,West,Health,2026-07-24,0.769,Paid,
+CLM-Q3-00300,POL-10372,Ritu Kulkarni,West,Motor,2026-07-24,0.199,Paid,Customer called for status
+CLM-Q3-00301,POL-10131,Manoj Nair,North,Motor,2026-07-25,0.355,Paid,
+CLM-Q3-00302,POL-10170,Suresh Reddy,North,Motor,2026-07-25,0.247,Paid,
+CLM-Q3-00303,POL-10189,Sanjay Kumar,North,Motor,2026-07-25,0.443,Paid,
+CLM-Q3-00304,POL-10182,Rahul Chauhan,North,Property,2026-07-25,0.596,Paid,
+CLM-Q3-00305,POL-10040,Lata Mishra,North,Motor,2026-07-25,0.254,Paid,
+CLM-Q3-00306,POL-10180,Priya Gupta,North,Motor,2026-07-25,0.231,Paid,
+CLM-Q3-00307,POL-10498,Pooja Menon,South,Motor,2026-07-25,0.372,Paid,
+CLM-Q3-00308,POL-10556,Anil Kulkarni,South,Motor,2026-07-25,0.261,Paid,Cashless approved
+CLM-Q3-00309,POL-10467,Rekha Rao,South,Motor,2026-07-25,0.153,Paid,
+CLM-Q3-00310,POL-10274,Varun Chauhan,West,Motor,2026-07-25,0.275,Paid,
+CLM-Q3-00311,POL-10384,Arjun Agarwal,West,Travel,2026-07-25,0.221,Paid,
+CLM-Q3-00312,POL-10267,Seema Reddy,West,Property,2026-07-25,0.458,Paid,
+CLM-Q3-00313,POL-10100,Sanjay Joshi,North,Property,2026-07-26,0.142,Paid,Cashless approved
+CLM-Q3-00314,POL-10128,Mohit Sharma,North,Property,2026-07-26,0.296,Paid,
+CLM-Q3-00315,POL-10185,Sunita Pillai,North,Health,2026-07-26,0.813,Paid,
+CLM-Q3-00316,POL-10010,Suresh Gupta,North,Motor,2026-07-26,0.182,Paid,
+CLM-Q3-00317,POL-10550,Anil Bose,South,Health,2026-07-26,0.578,Paid,
+CLM-Q3-00318,POL-10517,Neha Gupta,South,Property,2026-07-26,0.305,Paid,
+CLM-Q3-00319,POL-10315,Rahul Verma,West,Health,2026-07-26,0.632,Paid,
+CLM-Q3-00320,POL-10312,Vivaan Jain,West,Motor,2026-07-26,0.284,Paid,
+CLM-Q3-00321,POL-10241,Neha Chatterjee,West,Health,2026-07-26,0.329,Paid,
+CLM-Q3-00322,POL-10251,Neha Agarwal,West,Motor,2026-07-26,0.219,Paid,Surveyor report received
+CLM-Q3-00323,POL-10236,Ishaan Pillai,West,Motor,2026-07-26,0.151,Paid,
+CLM-Q3-00324,POL-10320,Pankaj Pillai,West,Motor,2026-07-26,0.344,Paid,Garage estimate revised
+CLM-Q3-00325,POL-10289,Anita Nair,West,Travel,2026-07-26,0.155,Paid,
+CLM-Q3-00326,POL-10341,Kavita Patel,West,Motor,2026-07-26,0.214,Paid,
+CLM-Q3-00327,POL-10354,Aarav Nair,West,Motor,2026-07-26,0.211,Paid,Cashless approved
+CLM-Q3-00328,POL-10691,Priya Nair,East,Motor,2026-07-27,0.215,Paid,
+CLM-Q3-00329,POL-10040,Lata Mishra,North,Motor,2026-07-27,0.420,Paid,
+CLM-Q3-00330,POL-10166,Sneha Gupta,North,Motor,2026-07-27,0.407,Paid,Cashless approved
+CLM-Q3-00331,POL-10217,Karan Chatterjee,North,Health,2026-07-27,0.286,Paid,Garage estimate revised
+CLM-Q3-00332,POL-10221,Rahul Das,North,Motor,2026-07-27,0.102,Paid,
+CLM-Q3-00333,POL-10617,Harsh Kulkarni,South,Motor,2026-07-27,0.071,Paid,Reimbursement - bills attached
+CLM-Q3-00334,POL-10537,Anita Sinha,South,Health,2026-07-27,1.340,Paid,
+CLM-Q3-00335,POL-10471,Neha Sharma,South,Motor,2026-07-27,0.284,Paid,
+CLM-Q3-00336,POL-10310,Ishaan Bose,West,Motor,2026-07-27,0.266,Paid,Garage estimate revised
+CLM-Q3-00337,POL-10265,Komal Yadav,West,Property,2026-07-27,1.281,Paid,
+CLM-Q3-00338,POL-10292,Aditya Pillai,West,Motor,2026-07-27,0.457,Paid,Documents verified
+CLM-Q3-00339,POL-10358,Ishaan Das,West,Motor,2026-07-27,0.498,Paid,
+CLM-Q3-00339,POL-10358,Ishaan Das,West,Motor,2026-07-27,0.498,Paid,
+CLM-Q3-00340,POL-10665,Rahul Banerjee,East,Motor,2026-07-28,0.495,Paid,
+CLM-Q3-00341,POL-10042,Lata Kumar,North,Property,2026-07-28,0.400,Paid,
+CLM-Q3-00342,POL-10133,Rahul Reddy,North,Health,2026-07-28,0.778,Paid,
+CLM-Q3-00343,POL-10608,Suresh Pillai,South,Health,2026-07-28,0.272,Paid,Garage estimate revised
+CLM-Q3-00344,POL-10403,Divya Singh,West,Property,2026-07-28,1.019,Paid,
+CLM-Q3-00345,POL-10312,Vivaan Jain,West,Motor,2026-07-28,0.475,Paid,Garage estimate revised
+CLM-Q3-00346,POL-10747,Seema Nair,East,Property,2026-07-29,1.199,Paid,
+CLM-Q3-00347,POL-10709,Vivaan Verma,East,Property,2026-07-29,0.610,Paid,
+CLM-Q3-00348,POL-10124,Ritu Nair,North,Property,2026-07-29,0.330,Paid,
+CLM-Q3-00349,POL-10214,Kavita Rao,North,Property,2026-07-29,0.447,Paid,Surveyor report received
+CLM-Q3-00350,POL-10169,Varun Joshi,North,Motor,2026-07-29,0.316,Paid,
+CLM-Q3-00351,POL-10221,Rahul Das,North,Motor,2026-07-29,0.161,Paid,Documents verified
+CLM-Q3-00352,POL-10586,Anita Kumar,South,Travel,2026-07-29,0.033,Paid,
+CLM-Q3-00353,POL-10599,Rekha Sinha,South,Travel,2026-07-29,0.049,Paid,
+CLM-Q3-00354,POL-10555,Manoj Ansari,South,Health,2026-07-29,0.407,Paid,
+CLM-Q3-00355,POL-10478,Priya Mehta,South,Motor,2026-07-29,0.192,Paid,
+CLM-Q3-00356,POL-10612,Pooja Rao,South,Motor,2026-07-29,0.193,Paid,
+CLM-Q3-00357,POL-10473,Vikram Tiwari,South,Motor,2026-07-29,0.720,Paid,
+CLM-Q3-00358,POL-10297,Shweta Ansari,West,Property,2026-07-29,0.289,Paid,
+CLM-Q3-00359,POL-10356,Sanjay Mehta,West,Health,2026-07-29,0.912,Paid,
+CLM-Q3-00360,POL-10376,Mohit Menon,West,Motor,2026-07-29,0.473,Paid,Surveyor report received
+CLM-Q3-00361,POL-10237,Pooja Bose,West,Motor,2026-07-29,0.227,Paid,
+CLM-Q3-00362,POL-10666,Anita Menon,East,Property,2026-07-30,0.536,Paid,
+CLM-Q3-00363,POL-10121,Rahul Gupta,North,Motor,2026-07-30,0.317,Paid,Fast-track approval
+CLM-Q3-00364,POL-10089,Pankaj Sinha,North,Property,2026-07-30,0.718,Paid,Reimbursement - bills attached
+CLM-Q3-00365,POL-10066,Rahul Bose,North,Travel,2026-07-30,0.101,Paid,
+CLM-Q3-00366,POL-10045,Sanjay Ansari,North,Motor,2026-07-30,0.214,Paid,Second inspection done
+CLM-Q3-00367,POL-10447,Nisha Patel,South,Health,2026-07-30,0.330,Paid,
+CLM-Q3-00368,POL-10287,Meera Rao,West,Health,2026-07-30,0.222,Paid,Garage estimate revised
+CLM-Q3-00369,POL-10269,Amit Das,West,Property,2026-07-30,0.420,Paid,
+CLM-Q3-00370,POL-10384,Arjun Agarwal,West,Motor,2026-07-30,0.167,Paid,
+CLM-Q3-00371,POL-10352,Arjun Gupta,West,Property,2026-07-30,0.607,Paid,
+CLM-Q3-00372,POL-10235,Sunita Das,West,Motor,2026-07-30,0.134,Paid,
+CLM-Q3-00373,POL-10677,Ishaan Nair,East,Motor,2026-07-31,0.526,Paid,
+CLM-Q3-00374,POL-10685,Rahul Mishra,East,Travel,2026-07-31,0.191,Paid,
+CLM-Q3-00375,POL-10739,Sanjay Verma,East,Health,2026-07-31,0.322,Paid,Customer called for status
+CLM-Q3-00376,POL-10080,Rohan Sharma,North,Motor,2026-07-31,0.426,Paid,
+CLM-Q3-00377,POL-10160,Kavita Agarwal,North,Health,2026-07-31,0.194,Paid,
+CLM-Q3-00378,POL-10194,Sanjay Banerjee,North,Health,2026-07-31,0.123,Paid,
+CLM-Q3-00379,POL-10067,Aarav Gupta,North,Motor,2026-07-31,0.291,Paid,
+CLM-Q3-00380,POL-10585,Anita Banerjee,South,Travel,2026-07-31,0.114,Paid,
+CLM-Q3-00381,POL-10578,Mohit Ansari,South,Health,2026-07-31,0.519,Paid,
+CLM-Q3-00382,POL-10463,Manoj Singh,South,Health,2026-07-31,0.280,Paid,
+CLM-Q3-00383,POL-10458,Vikram Mehta,South,Motor,2026-07-31,0.318,Paid,
+CLM-Q3-00384,POL-10409,Divya Pillai,West,Health,2026-07-31,0.823,Paid,
+CLM-Q3-00385,POL-10316,Pankaj Agarwal,West,Health,2026-07-31,0.389,Paid,
+CLM-Q3-00386,POL-10343,Arjun Nair,West,Property,2026-07-31,0.793,Paid,
+CLM-Q3-00387,POL-10304,Pooja Reddy,West,Motor,2026-07-31,0.234,Paid,Documents verified
+CLM-Q3-00388,POL-10346,Rohan Mishra,West,Motor,2026-07-31,0.179,Paid,
+CLM-Q3-00389,POL-10374,Anil Mehta,West,Travel,2026-07-31,0.306,Paid,
+CLM-Q3-00390,POL-10322,Kavita Desai,West,Property,2026-07-31,0.902,Paid,
+CLM-Q3-00391,POL-10035,Harsh Chauhan,North,Health,2026-08-01,0.592,Paid,
+CLM-Q3-00392,POL-10118,Sunita Bose,North,Travel,2026-08-01,0.152,Paid,
+CLM-Q3-00393,POL-10490,Seema Das,South,Motor,2026-08-01,0.779,Paid,
+CLM-Q3-00394,POL-10444,Neha Mishra,South,Property,2026-08-01,0.793,Paid,
+CLM-Q3-00395,POL-10306,Shweta Singh,West,Health,2026-08-01,0.548,Paid,
+CLM-Q3-00396,POL-10320,Pankaj Pillai,West,Motor,2026-08-01,0.222,Paid,Second inspection done
+CLM-Q3-00397,POL-10243,Shweta Das,West,Property,2026-08-01,0.865,Paid,Customer called for status
+CLM-Q3-00398,POL-10295,Varun Rao,West,Health,2026-08-01,0.526,Paid,
+CLM-Q3-00399,POL-10343,Arjun Nair,West,Motor,2026-08-01,0.720,Paid,
+CLM-Q3-00399,POL-10343,Arjun Nair,West,Motor,2026-08-01,0.720,Paid,
+CLM-Q3-00400,POL-10735,Lata Pillai,East,Motor,2026-08-02,0.430,Paid,
+CLM-Q3-00401,POL-10663,Arjun Reddy,East,Travel,2026-08-02,0.109,Paid,
+CLM-Q3-00402,POL-10760,Divya Iyer,East,Motor,2026-08-02,0.355,Paid,Documents verified
+CLM-Q3-00403,POL-10178,Karan Bose,North,Motor,2026-08-02,0.209,Paid,
+CLM-Q3-00404,POL-10229,Ishaan Shah,North,Health,2026-08-02,0.193,Paid,
+CLM-Q3-00405,POL-10065,Amit Ansari,North,Motor,2026-08-02,0.562,Paid,
+CLM-Q3-00405,POL-10065,Amit Ansari,North,Motor,2026-08-02,0.562,Paid,
+CLM-Q3-00406,POL-10515,Sunita Patel,South,Motor,2026-08-02,0.519,Paid,
+CLM-Q3-00407,POL-10512,Divya Mehta,South,Health,2026-08-02,0.514,Paid,
+CLM-Q3-00408,POL-10512,Divya Mehta,South,Motor,2026-08-02,0.351,Paid,
+CLM-Q3-00409,POL-10608,Suresh Pillai,South,Health,2026-08-02,0.282,Paid,
+CLM-Q3-00410,POL-10337,Gaurav Sharma,West,Health,2026-08-02,0.772,Paid,Garage estimate revised
+CLM-Q3-00411,POL-10372,Ritu Kulkarni,West,Motor,2026-08-02,0.326,Paid,
+CLM-Q3-00412,POL-10366,Tanvi Gupta,West,Health,2026-08-02,0.295,Paid,
+CLM-Q3-00413,POL-10285,Deepak Kumar,West,Travel,2026-08-02,0.239,Paid,Garage estimate revised
+CLM-Q3-00414,POL-10234,Deepak Khan,West,Motor,2026-08-02,0.393,Paid,
+CLM-Q3-00415,POL-10764,Suresh Sharma,East,Motor,2026-08-03,0.279,Paid,
+CLM-Q3-00416,POL-10157,Meera Kumar,North,Health,2026-08-03,0.165,Paid,Garage estimate revised
+CLM-Q3-00417,POL-10551,Mohit Reddy,South,Health,2026-08-03,0.530,Paid,
+CLM-Q3-00418,POL-10584,Priya Iyer,South,Motor,2026-08-03,0.224,Paid,
+CLM-Q3-00419,POL-10646,Anita Ansari,South,Travel,2026-08-03,0.264,Paid,
+CLM-Q3-00420,POL-10607,Rahul Agarwal,South,Health,2026-08-03,0.483,Paid,
+CLM-Q3-00421,POL-10280,Anil Chatterjee,West,Property,2026-08-03,0.344,Paid,
+CLM-Q3-00422,POL-10736,Ritu Bose,East,Motor,2026-08-04,0.311,Paid,
+CLM-Q3-00423,POL-10779,Kavita Iyer,East,Motor,2026-08-04,0.904,Paid,
+CLM-Q3-00424,POL-10686,Sunita Rao,East,Health,2026-08-04,0.517,Paid,Fast-track approval
+CLM-Q3-00425,POL-10145,Ramesh Kulkarni,North,Motor,2026-08-04,0.203,Paid,
+CLM-Q3-00426,POL-10177,Varun Jain,North,Health,2026-08-04,0.365,Paid,
+CLM-Q3-00427,POL-10173,Komal Kumar,North,Property,2026-08-04,0.326,Paid,
+CLM-Q3-00428,POL-10188,Rekha Shah,North,Health,2026-08-04,0.567,Paid,
+CLM-Q3-00429,POL-10214,Kavita Rao,North,Health,2026-08-04,0.631,Paid,Cashless approved
+CLM-Q3-00430,POL-10590,Amit Bose,South,Motor,2026-08-04,0.383,Paid,
+CLM-Q3-00431,POL-10519,Harsh Agarwal,South,Motor,2026-08-04,0.135,Paid,
+CLM-Q3-00432,POL-10283,Rekha Sharma,West,Health,2026-08-04,0.208,Paid,
+CLM-Q3-00433,POL-10276,Mohit Nair,West,Motor,2026-08-04,0.482,Paid,
+CLM-Q3-00434,POL-10337,Gaurav Sharma,West,Motor,2026-08-04,0.557,Paid,
+CLM-Q3-00435,POL-10667,Tanvi Rao,East,Property,2026-08-05,1.077,Paid,Customer called for status
+CLM-Q3-00436,POL-10699,Varun Singh,East,Health,2026-08-05,0.302,Paid,
+CLM-Q3-00437,POL-10685,Rahul Mishra,East,Motor,2026-08-05,0.294,Paid,
+CLM-Q3-00438,POL-10142,Anil Banerjee,North,Health,2026-08-05,0.191,Paid,
+CLM-Q3-00439,POL-10104,Varun Menon,North,Motor,2026-08-05,0.587,Paid,
+CLM-Q3-00440,POL-10210,Pankaj Sharma,North,Motor,2026-08-05,0.208,Paid,
+CLM-Q3-00441,POL-10208,Anita Singh,North,Motor,2026-08-05,0.437,Paid,
+CLM-Q3-00442,POL-10227,Suresh Shah,North,Health,2026-08-05,0.458,Paid,Surveyor report received
+CLM-Q3-00443,POL-10086,Ishaan Banerjee,North,Motor,2026-08-05,0.172,Paid,
+CLM-Q3-00444,POL-10040,Lata Mishra,North,Property,2026-08-05,0.330,Paid,
+CLM-Q3-00445,POL-10568,Kavita Singh,South,Motor,2026-08-05,0.125,Paid,
+CLM-Q3-00446,POL-10638,Deepak Patel,South,Health,2026-08-05,0.518,Paid,
+CLM-Q3-00447,POL-10028,Varun Kulkarni,North,Motor,2026-08-06,0.460,Paid,
+CLM-Q3-00448,POL-10477,Vikram Desai,South,Motor,2026-08-06,0.112,Paid,
+CLM-Q3-00449,POL-10559,Manoj Sharma,South,Motor,2026-08-06,0.395,Paid,
+CLM-Q3-00450,POL-10441,Karan Kumar,South,Motor,2026-08-06,0.380,Paid,
+CLM-Q3-00451,POL-10649,Harsh Reddy,South,Motor,2026-08-06,0.433,Paid,
+CLM-Q3-00452,POL-10526,Neha Reddy,South,Motor,2026-08-06,0.338,Paid,
+CLM-Q3-00453,POL-10342,Manoj Chauhan,West,Health,2026-08-06,0.849,Paid,
+CLM-Q3-00454,POL-10305,Suresh Jain,West,Health,2026-08-06,0.476,Paid,
+CLM-Q3-00455,POL-10233,Amit Mishra,West,Motor,2026-08-06,0.582,Paid,
+CLM-Q3-00456,POL-10330,Suresh Das,West,Motor,2026-08-06,0.172,Paid,
+CLM-Q3-00457,POL-10245,Neha Ansari,West,Property,2026-08-06,0.399,Paid,
+CLM-Q3-00458,POL-10321,Rohan Banerjee,West,Travel,2026-08-06,0.133,Paid,
+CLM-Q3-00458,POL-10321,Rohan Banerjee,West,Travel,2026-08-06,0.133,Paid,
+CLM-Q3-00459,POL-10746,Tanvi Singh,East,Health,2026-08-07,0.259,Paid,Customer called for status
+CLM-Q3-00460,POL-10163,Manoj Gupta,North,Health,2026-08-07,0.433,Paid,
+CLM-Q3-00461,POL-10032,Pankaj Menon,North,Motor,2026-08-07,0.374,Paid,Reimbursement - bills attached
+CLM-Q3-00462,POL-10474,Ritu Singh,South,Property,2026-08-07,0.467,Paid,Reimbursement - bills attached
+CLM-Q3-00463,POL-10638,Deepak Patel,South,Health,2026-08-07,0.164,Paid,Second inspection done
+CLM-Q3-00464,POL-10603,Neha Nair,South,Motor,2026-08-07,0.362,Paid,
+CLM-Q3-00465,POL-10638,Deepak Patel,South,Health,2026-08-07,0.350,Paid,
+CLM-Q3-00466,POL-10265,Komal Yadav,West,Property,2026-08-07,1.529,Paid,
+CLM-Q3-00467,POL-10234,Deepak Khan,West,Motor,2026-08-07,0.143,Paid,
+CLM-Q3-00468,POL-10416,Arjun Mehta,West,Motor,2026-08-07,0.417,Paid,
+CLM-Q3-00469,POL-10745,Aarav Shah,East,Travel,2026-08-08,0.098,Paid,
+CLM-Q3-00470,POL-10754,Ramesh Sinha,East,Health,2026-08-08,0.393,Paid,
+CLM-Q3-00471,POL-10215,Gaurav Agarwal,North,Motor,2026-08-08,0.242,Paid,
+CLM-Q3-00472,POL-10037,Anita Joshi,North,Motor,2026-08-08,0.228,Paid,
+CLM-Q3-00473,POL-10072,Ritu Mishra,North,Motor,2026-08-08,0.083,Paid,
+CLM-Q3-00474,POL-10063,Shweta Nair,North,Motor,2026-08-08,0.300,Paid,
+CLM-Q3-00475,POL-10542,Rohan Rao,South,Health,2026-08-08,0.332,Paid,
+CLM-Q3-00476,POL-10596,Sneha Khan,South,Property,2026-08-08,0.425,Paid,
+CLM-Q3-00477,POL-10538,Rohan Tiwari,South,Health,2026-08-08,0.403,Paid,
+CLM-Q3-00478,POL-10645,Varun Desai,South,Health,2026-08-08,0.239,Paid,
+CLM-Q3-00479,POL-10445,Mohit Desai,South,Health,2026-08-08,0.204,Paid,
+CLM-Q3-00480,POL-10352,Arjun Gupta,West,Motor,2026-08-08,0.340,Paid,
+CLM-Q3-00481,POL-10408,Divya Kulkarni,West,Health,2026-08-08,0.247,Paid,
+CLM-Q3-00482,POL-10274,Varun Chauhan,West,Travel,2026-08-08,0.158,Paid,
+CLM-Q3-00483,POL-10655,Priya Banerjee,East,Motor,2026-08-09,0.326,Paid,Customer called for status
+CLM-Q3-00484,POL-10713,Manoj Chatterjee,East,Travel,2026-08-09,0.117,Paid,
+CLM-Q3-00485,POL-10730,Arjun Ansari,East,Health,2026-08-09,0.691,Paid,
+CLM-Q3-00486,POL-10120,Mohit Pillai,North,Motor,2026-08-09,0.237,Paid,
+CLM-Q3-00487,POL-10106,Aarav Agarwal,North,Motor,2026-08-09,0.711,Paid,
+CLM-Q3-00488,POL-10437,Pankaj Das,South,Health,2026-08-09,0.425,Paid,
+CLM-Q3-00489,POL-10465,Komal Gupta,South,Health,2026-08-09,0.263,Paid,
+CLM-Q3-00490,POL-10553,Varun Sharma,South,Motor,2026-08-09,0.850,Paid,
+CLM-Q3-00490,POL-10553,Varun Sharma,South,Motor,2026-08-09,0.850,Paid,
+CLM-Q3-00491,POL-10398,Shweta Chatterjee,West,Motor,2026-08-09,0.328,Paid,
+CLM-Q3-00492,POL-10274,Varun Chauhan,West,Motor,2026-08-09,0.254,Paid,
+CLM-Q3-00493,POL-10131,Manoj Nair,North,Motor,2026-08-10,0.236,Paid,
+CLM-Q3-00494,POL-10023,Sneha Yadav,North,Property,2026-08-10,0.221,Paid,
+CLM-Q3-00495,POL-10106,Aarav Agarwal,North,Health,2026-08-10,0.226,Paid,
+CLM-Q3-00496,POL-10010,Suresh Gupta,North,Motor,2026-08-10,0.513,Paid,
+CLM-Q3-00497,POL-10208,Anita Singh,North,Health,2026-08-10,0.546,Paid,
+CLM-Q3-00498,POL-10185,Sunita Pillai,North,Motor,2026-08-10,0.175,Paid,Second inspection done
+CLM-Q3-00499,POL-10560,Ritu Patel,South,Motor,2026-08-10,0.295,Paid,
+CLM-Q3-00500,POL-10459,Gaurav Sinha,South,Motor,2026-08-10,0.384,Paid,Reimbursement - bills attached
+CLM-Q3-00501,POL-10561,Amit Agarwal,South,Property,2026-08-10,0.377,Paid,Surveyor report received
+CLM-Q3-00502,POL-10567,Meera Verma,South,Health,2026-08-10,0.819,Paid,
+CLM-Q3-00503,POL-10596,Sneha Khan,South,Motor,2026-08-10,0.342,Paid,
+CLM-Q3-00504,POL-10401,Ishaan Reddy,West,Motor,2026-08-10,0.370,Paid,
+CLM-Q3-00505,POL-10277,Harsh Tiwari,West,Motor,2026-08-10,0.515,Paid,
+CLM-Q3-00506,POL-10324,Meera Ansari,West,Health,2026-08-10,0.285,Paid,
+CLM-Q3-00507,POL-10263,Vikram Mishra,West,Motor,2026-08-10,0.223,Paid,
+CLM-Q3-00508,POL-10655,Priya Banerjee,East,Motor,2026-08-11,0.118,Paid,
+CLM-Q3-00509,POL-10667,Tanvi Rao,East,Health,2026-08-11,0.889,Paid,Customer called for status
+CLM-Q3-00509,POL-10667,Tanvi Rao,East,Health,2026-08-11,0.889,Paid,Customer called for status
+CLM-Q3-00510,POL-10154,Komal Chauhan,North,Health,2026-08-11,0.326,Paid,
+CLM-Q3-00511,POL-10047,Arjun Menon,North,Motor,2026-08-11,0.124,Paid,
+CLM-Q3-00512,POL-10127,Ramesh Pillai,North,Motor,2026-08-11,0.520,Paid,
+CLM-Q3-00513,POL-10024,Nisha Banerjee,North,Health,2026-08-11,0.276,Paid,Garage estimate revised
+CLM-Q3-00514,POL-10053,Suresh Chatterjee,North,Health,2026-08-11,0.659,Paid,
+CLM-Q3-00515,POL-10509,Komal Sharma,South,Motor,2026-08-11,0.433,Paid,
+CLM-Q3-00516,POL-10540,Seema Shah,South,Property,2026-08-11,0.366,Paid,
+CLM-Q3-00517,POL-10648,Gaurav Singh,South,Motor,2026-08-11,0.395,Paid,
+CLM-Q3-00518,POL-10386,Amit Shah,West,Motor,2026-08-11,0.615,Paid,
+CLM-Q3-00519,POL-10373,Anita Chauhan,West,Property,2026-08-11,0.602,Paid,
+CLM-Q3-00520,POL-10381,Rekha Agarwal,West,Property,2026-08-11,0.596,Paid,Reimbursement - bills attached
+CLM-Q3-00521,POL-10411,Manoj Das,West,Motor,2026-08-11,0.123,Paid,
+CLM-Q3-00522,POL-10359,Aarav Rao,West,Motor,2026-08-11,0.449,Paid,
+CLM-Q3-00523,POL-10358,Ishaan Das,West,Health,2026-08-11,1.062,Paid,
+CLM-Q3-00523,POL-10358,Ishaan Das,West,Health,2026-08-11,1.062,Paid,
+CLM-Q3-00524,POL-10666,Anita Menon,East,Health,2026-08-12,0.356,Paid,
+CLM-Q3-00525,POL-10659,Kavita Banerjee,East,Health,2026-08-12,0.264,Paid,
+CLM-Q3-00526,POL-10707,Divya Rao,East,Property,2026-08-12,0.485,Paid,
+CLM-Q3-00527,POL-10104,Varun Menon,North,Motor,2026-08-12,0.189,Paid,Surveyor report received
+CLM-Q3-00528,POL-10611,Karan Menon,South,Health,2026-08-12,0.344,Paid,
+CLM-Q3-00529,POL-10602,Kavita Menon,South,Motor,2026-08-12,0.209,Paid,
+CLM-Q3-00530,POL-10632,Shweta Verma,South,Travel,2026-08-12,0.055,Paid,Customer called for status
+CLM-Q3-00531,POL-10580,Amit Khan,South,Property,2026-08-12,0.491,Paid,Reimbursement - bills attached
+CLM-Q3-00532,POL-10614,Nisha Rao,South,Health,2026-08-12,0.342,Paid,
+CLM-Q3-00533,POL-10439,Shweta Pillai,South,Motor,2026-08-12,0.224,Paid,
+CLM-Q3-00534,POL-10302,Amit Mehta,West,Motor,2026-08-12,0.238,Paid,
+CLM-Q3-00535,POL-10279,Lata Singh,West,Health,2026-08-12,0.672,Paid,
+CLM-Q3-00536,POL-10255,Arjun Yadav,West,Property,2026-08-12,0.382,Paid,
+CLM-Q3-00537,POL-10352,Arjun Gupta,West,Travel,2026-08-12,0.099,Paid,Fast-track approval
+CLM-Q3-00538,POL-10675,Divya Chauhan,East,Health,2026-08-13,0.362,Paid,
+CLM-Q3-00539,POL-10003,Seema Yadav,North,Health,2026-08-13,0.608,Paid,
+CLM-Q3-00540,POL-10027,Anita Iyer,North,Travel,2026-08-13,0.132,Paid,Cashless approved
+CLM-Q3-00541,POL-10079,Anil Patel,North,Health,2026-08-13,0.430,Paid,Reimbursement - bills attached
+CLM-Q3-00542,POL-10204,Manoj Patel,North,Health,2026-08-13,0.762,Paid,
+CLM-Q3-00543,POL-10535,Ritu Yadav,South,Motor,2026-08-13,0.585,Paid,Cashless approved
+CLM-Q3-00544,POL-10626,Rekha Menon,South,Motor,2026-08-13,0.322,Paid,
+CLM-Q3-00545,POL-10683,Sneha Mehta,East,Health,2026-08-14,0.483,Paid,
+CLM-Q3-00546,POL-10734,Vivaan Gupta,East,Motor,2026-08-14,0.554,Paid,
+CLM-Q3-00547,POL-10077,Rahul Ansari,North,Motor,2026-08-14,0.202,Paid,
+CLM-Q3-00548,POL-10168,Vivaan Iyer,North,Travel,2026-08-14,0.100,Paid,
+CLM-Q3-00549,POL-10125,Vikram Das,North,Health,2026-08-14,0.279,Paid,
+CLM-Q3-00550,POL-10154,Komal Chauhan,North,Motor,2026-08-14,0.187,Paid,
+CLM-Q3-00551,POL-10067,Aarav Gupta,North,Property,2026-08-14,0.342,Paid,
+CLM-Q3-00552,POL-10197,Shweta Kumar,North,Motor,2026-08-14,0.245,Paid,
+CLM-Q3-00553,POL-10200,Meera Reddy,North,Motor,2026-08-14,0.232,Paid,
+CLM-Q3-00554,POL-10032,Pankaj Menon,North,Motor,2026-08-14,0.369,Paid,Reimbursement - bills attached
+CLM-Q3-00555,POL-10431,Neha Mehta,South,Motor,2026-08-14,0.350,Paid,Second inspection done
+CLM-Q3-00556,POL-10271,Naveen Sharma,West,Health,2026-08-14,0.265,Paid,
+CLM-Q3-00557,POL-10410,Aarav Patel,West,Motor,2026-08-14,0.200,Paid,
+CLM-Q3-00558,POL-10415,Vivaan Mishra,West,Motor,2026-08-14,0.288,Paid,
+CLM-Q3-00559,POL-10031,Varun Iyer,North,Property,2026-08-15,0.180,Paid,
+CLM-Q3-00560,POL-10092,Suresh Mehta,North,Property,2026-08-15,0.345,Paid,
+CLM-Q3-00561,POL-10078,Lata Menon,North,Health,2026-08-15,0.423,Paid,Garage estimate revised
+CLM-Q3-00562,POL-10109,Kavita Yadav,North,Motor,2026-08-15,0.593,Paid,Documents verified
+CLM-Q3-00563,POL-10221,Rahul Das,North,Property,2026-08-15,0.309,Paid,
+CLM-Q3-00564,POL-10611,Karan Menon,South,Motor,2026-08-15,0.534,Paid,
+CLM-Q3-00565,POL-10500,Karan Banerjee,South,Health,2026-08-15,0.360,Paid,
+CLM-Q3-00566,POL-10431,Neha Mehta,South,Motor,2026-08-15,0.262,Paid,Cashless approved
+CLM-Q3-00567,POL-10579,Seema Mishra,South,Health,2026-08-15,0.370,Paid,
+CLM-Q3-00568,POL-10373,Anita Chauhan,West,Motor,2026-08-15,0.309,Paid,Fast-track approval
+CLM-Q3-00569,POL-10321,Rohan Banerjee,West,Motor,2026-08-15,0.389,Paid,
+CLM-Q3-00570,POL-10743,Sanjay Jain,East,Health,2026-08-16,0.422,Paid,Fast-track approval
+CLM-Q3-00571,POL-10677,Ishaan Nair,East,Motor,2026-08-16,0.406,Paid,
+CLM-Q3-00572,POL-10664,Sneha Mishra,East,Health,2026-08-16,0.679,Paid,
+CLM-Q3-00573,POL-10184,Varun Bose,North,Property,2026-08-16,1.199,Paid,
+CLM-Q3-00574,POL-10544,Aditya Bose,South,Property,2026-08-16,0.479,Paid,
+CLM-Q3-00575,POL-10541,Ritu Iyer,South,Health,2026-08-16,0.351,Paid,Surveyor report received
+CLM-Q3-00576,POL-10474,Ritu Singh,South,Motor,2026-08-16,0.175,Paid,
+CLM-Q3-00577,POL-10136,Tanvi Chauhan,North,Health,2026-08-17,0.256,Paid,Surveyor report received
+CLM-Q3-00578,POL-10060,Naveen Banerjee,North,Motor,2026-08-17,0.764,Paid,
+CLM-Q3-00579,POL-10462,Anil Verma,South,Motor,2026-08-17,0.242,Paid,
+CLM-Q3-00580,POL-10508,Varun Pillai,South,Property,2026-08-17,0.756,Paid,
+CLM-Q3-00581,POL-10561,Amit Agarwal,South,Health,2026-08-17,0.450,Paid,
+CLM-Q3-00582,POL-10646,Anita Ansari,South,Travel,2026-08-17,0.137,Paid,
+CLM-Q3-00583,POL-10558,Karan Mehta,South,Motor,2026-08-17,0.215,Paid,
+CLM-Q3-00584,POL-10442,Ishaan Sinha,South,Motor,2026-08-17,0.197,Paid,
+CLM-Q3-00585,POL-10352,Arjun Gupta,West,Motor,2026-08-17,0.373,Paid,
+CLM-Q3-00586,POL-10266,Deepak Gupta,West,Health,2026-08-17,0.182,Paid,
+CLM-Q3-00587,POL-10356,Sanjay Mehta,West,Motor,2026-08-17,0.346,Paid,
+CLM-Q3-00588,POL-10269,Amit Das,West,Motor,2026-08-17,0.334,Paid,
+CLM-Q3-00589,POL-10771,Rohan Joshi,East,Motor,2026-08-18,0.169,Paid,
+CLM-Q3-00590,POL-10752,Aditya Chauhan,East,Property,2026-08-18,0.520,Paid,Reimbursement - bills attached
+CLM-Q3-00591,POL-10088,Ritu Menon,North,Motor,2026-08-18,0.448,Paid,Reimbursement - bills attached
+CLM-Q3-00592,POL-10551,Mohit Reddy,South,Motor,2026-08-18,0.379,Paid,
+CLM-Q3-00593,POL-10603,Neha Nair,South,Health,2026-08-18,0.433,Paid,
+CLM-Q3-00594,POL-10502,Pooja Mishra,South,Travel,2026-08-18,0.269,Paid,
+CLM-Q3-00595,POL-10338,Naveen Pillai,West,Travel,2026-08-18,0.111,Paid,
+CLM-Q3-00596,POL-10356,Sanjay Mehta,West,Property,2026-08-18,0.268,Paid,Surveyor report received
+CLM-Q3-00597,POL-10316,Pankaj Agarwal,West,Property,2026-08-18,0.444,Paid,
+CLM-Q3-00598,POL-10288,Priya Ansari,West,Health,2026-08-18,0.975,Paid,Fast-track approval
+CLM-Q3-00599,POL-10265,Komal Yadav,West,Property,2026-08-18,0.645,Paid,Garage estimate revised
+CLM-Q3-00600,POL-10333,Deepak Rao,West,Motor,2026-08-18,0.664,Paid,
+CLM-Q3-00601,POL-10240,Manoj Pillai,West,Health,2026-08-18,0.728,Paid,
+CLM-Q3-00601,POL-10240,Manoj Pillai,West,Health,2026-08-18,0.728,Paid,
+CLM-Q3-00602,POL-10706,Pankaj Patel,East,Motor,2026-08-19,0.258,Paid,
+CLM-Q3-00603,POL-10765,Karan Desai,East,Motor,2026-08-19,0.230,Paid,
+CLM-Q3-00604,POL-10641,Shweta Agarwal,South,Motor,2026-08-19,0.282,Paid,
+CLM-Q3-00605,POL-10639,Kavita Kumar,South,Travel,2026-08-19,0.102,Paid,Customer called for status
+CLM-Q3-00606,POL-10266,Deepak Gupta,West,Travel,2026-08-19,0.099,Paid,
+CLM-Q3-00607,POL-10351,Naveen Patel,West,Health,2026-08-19,0.343,Paid,
+CLM-Q3-00608,POL-10303,Mohit Sinha,West,Motor,2026-08-19,0.148,Paid,
+CLM-Q3-00609,POL-10322,Kavita Desai,West,Property,2026-08-19,0.210,Paid,
+CLM-Q3-00610,POL-10683,Sneha Mehta,East,Motor,2026-08-20,0.380,Paid,
+CLM-Q3-00611,POL-10725,Anil Iyer,East,Health,2026-08-20,0.484,Paid,
+CLM-Q3-00612,POL-10211,Divya Nair,North,Health,2026-08-20,0.306,Paid,
+CLM-Q3-00613,POL-10077,Rahul Ansari,North,Property,2026-08-20,1.136,Paid,
+CLM-Q3-00614,POL-10015,Mohit Iyer,North,Motor,2026-08-20,0.354,Paid,
+CLM-Q3-00615,POL-10616,Rohan Nair,South,Health,2026-08-20,0.460,Paid,
+CLM-Q3-00616,POL-10580,Amit Khan,South,Motor,2026-08-20,0.237,Paid,
+CLM-Q3-00617,POL-10547,Rohan Pillai,South,Motor,2026-08-20,0.300,Paid,
+CLM-Q3-00618,POL-10254,Mohit Mishra,West,Health,2026-08-20,0.358,Paid,
+CLM-Q3-00619,POL-10400,Karan Agarwal,West,Travel,2026-08-20,0.259,Paid,
+CLM-Q3-00620,POL-10235,Sunita Das,West,Travel,2026-08-20,0.089,Paid,
+CLM-Q3-00621,POL-10694,Suresh Chauhan,East,Property,2026-08-21,1.103,Paid,
+CLM-Q3-00622,POL-10657,Ritu Khan,East,Motor,2026-08-21,0.442,Paid,
+CLM-Q3-00623,POL-10021,Ishaan Jain,North,Travel,2026-08-21,0.070,Paid,
+CLM-Q3-00624,POL-10125,Vikram Das,North,Property,2026-08-21,0.354,Paid,
+CLM-Q3-00625,POL-10107,Arjun Joshi,North,Health,2026-08-21,0.289,Paid,
+CLM-Q3-00626,POL-10091,Shweta Reddy,North,Motor,2026-08-21,0.560,Paid,
+CLM-Q3-00627,POL-10589,Tanvi Mishra,South,Motor,2026-08-21,0.184,Paid,Customer called for status
+CLM-Q3-00628,POL-10529,Aditya Shah,South,Property,2026-08-21,0.427,Paid,
+CLM-Q3-00629,POL-10610,Sanjay Das,South,Health,2026-08-21,0.189,Paid,
+CLM-Q3-00630,POL-10599,Rekha Sinha,South,Motor,2026-08-21,0.197,Paid,
+CLM-Q3-00631,POL-10288,Priya Ansari,West,Motor,2026-08-21,0.701,Paid,Second inspection done
+CLM-Q3-00632,POL-10313,Rohan Chatterjee,West,Health,2026-08-21,0.295,Paid,
+CLM-Q3-00633,POL-10359,Aarav Rao,West,Motor,2026-08-21,0.784,Paid,
+CLM-Q3-00634,POL-10369,Sanjay Iyer,West,Motor,2026-08-21,0.282,Paid,
+CLM-Q3-00635,POL-10260,Rekha Mehta,West,Motor,2026-08-21,0.252,Paid,Fast-track approval
+CLM-Q3-00636,POL-10765,Karan Desai,East,Motor,2026-08-22,0.253,Paid,Fast-track approval
+CLM-Q3-00637,POL-10672,Deepak Mishra,East,Travel,2026-08-22,0.069,Paid,
+CLM-Q3-00638,POL-10734,Vivaan Gupta,East,Property,2026-08-22,0.653,Paid,
+CLM-Q3-00639,POL-10710,Sanjay Menon,East,Health,2026-08-22,0.564,Paid,Customer called for status
+CLM-Q3-00639,POL-10710,Sanjay Menon,East,Health,2026-08-22,0.564,Paid,Customer called for status
+CLM-Q3-00640,POL-10129,Naveen Kumar,North,Motor,2026-08-22,0.255,Paid,Cashless approved
+CLM-Q3-00641,POL-10484,Rohan Agarwal,South,Motor,2026-08-22,0.338,Paid,
+CLM-Q3-00642,POL-10589,Tanvi Mishra,South,Motor,2026-08-22,0.204,Paid,
+CLM-Q3-00643,POL-10529,Aditya Shah,South,Health,2026-08-22,0.272,Paid,
+CLM-Q3-00644,POL-10512,Divya Mehta,South,Motor,2026-08-22,0.415,Paid,
+CLM-Q3-00645,POL-10521,Neha Sinha,South,Travel,2026-08-22,0.066,Paid,
+CLM-Q3-00646,POL-10613,Tanvi Pillai,South,Motor,2026-08-22,0.494,Paid,
+CLM-Q3-00647,POL-10594,Sunita Khan,South,Motor,2026-08-22,0.314,Paid,
+CLM-Q3-00648,POL-10415,Vivaan Mishra,West,Motor,2026-08-22,0.343,Paid,
+CLM-Q3-00649,POL-10279,Lata Singh,West,Property,2026-08-22,0.749,Paid,Customer called for status
+CLM-Q3-00650,POL-10342,Manoj Chauhan,West,Health,2026-08-22,0.659,Paid,
+CLM-Q3-00651,POL-10393,Deepak Bose,West,Motor,2026-08-22,0.414,Paid,
+CLM-Q3-00652,POL-10407,Ritu Chauhan,West,Motor,2026-08-22,0.324,Paid,
+CLM-Q3-00652,POL-10407,Ritu Chauhan,West,Motor,2026-08-22,0.324,Paid,
+CLM-Q3-00653,POL-10652,Komal Banerjee,East,Health,2026-08-23,0.332,Paid,
+CLM-Q3-00654,POL-10706,Pankaj Patel,East,Motor,2026-08-23,0.250,Paid,
+CLM-Q3-00655,POL-10678,Vikram Nair,East,Property,2026-08-23,0.760,Paid,
+CLM-Q3-00656,POL-10214,Kavita Rao,North,Travel,2026-08-23,0.129,Paid,Fast-track approval
+CLM-Q3-00657,POL-10132,Sanjay Tiwari,North,Motor,2026-08-23,0.564,Paid,
+CLM-Q3-00658,POL-10087,Manoj Bose,North,Health,2026-08-23,0.173,Paid,
+CLM-Q3-00659,POL-10163,Manoj Gupta,North,Motor,2026-08-23,0.228,Paid,
+CLM-Q3-00660,POL-10021,Ishaan Jain,North,Travel,2026-08-23,0.273,Paid,Cashless approved
+CLM-Q3-00661,POL-10004,Lata Chatterjee,North,Motor,2026-08-23,0.156,Paid,
+CLM-Q3-00662,POL-10091,Shweta Reddy,North,Motor,2026-08-23,0.125,Paid,
+CLM-Q3-00663,POL-10210,Pankaj Sharma,North,Property,2026-08-23,0.388,Paid,
+CLM-Q3-00664,POL-10500,Karan Banerjee,South,Property,2026-08-23,0.435,Paid,
+CLM-Q3-00665,POL-10501,Arjun Khan,South,Motor,2026-08-23,0.177,Paid,Customer called for status
+CLM-Q3-00666,POL-10358,Ishaan Das,West,Health,2026-08-23,0.193,Paid,
+CLM-Q3-00667,POL-10753,Priya Menon,East,Motor,2026-08-24,0.383,Paid,Garage estimate revised
+CLM-Q3-00668,POL-10709,Vivaan Verma,East,Health,2026-08-24,0.491,Paid,
+CLM-Q3-00669,POL-10770,Sanjay Desai,East,Health,2026-08-24,0.338,Paid,
+CLM-Q3-00670,POL-10679,Aarav Verma,East,Motor,2026-08-24,0.483,Paid,
+CLM-Q3-00671,POL-10726,Anil Sinha,East,Motor,2026-08-24,0.460,Paid,
+CLM-Q3-00672,POL-10044,Lata Nair,North,Property,2026-08-24,0.410,Paid,
+CLM-Q3-00673,POL-10138,Ramesh Jain,North,Property,2026-08-24,0.280,Paid,
+CLM-Q3-00674,POL-10493,Sunita Ansari,South,Motor,2026-08-24,0.249,Paid,
+CLM-Q3-00675,POL-10481,Sneha Chauhan,South,Health,2026-08-24,0.232,Paid,
+CLM-Q3-00676,POL-10512,Divya Mehta,South,Motor,2026-08-24,0.783,Paid,
+CLM-Q3-00677,POL-10543,Komal Rao,South,Property,2026-08-24,0.243,Paid,Documents verified
+CLM-Q3-00678,POL-10328,Anita Tiwari,West,Property,2026-08-24,0.369,Paid,
+CLM-Q3-00679,POL-10416,Arjun Mehta,West,Health,2026-08-24,1.027,Paid,
+CLM-Q3-00680,POL-10712,Vikram Reddy,East,Travel,2026-08-25,0.142,Paid,
+CLM-Q3-00681,POL-10117,Rahul Sinha,North,Health,2026-08-25,0.393,Paid,
+CLM-Q3-00682,POL-10178,Karan Bose,North,Motor,2026-08-25,0.161,Paid,Customer called for status
+CLM-Q3-00683,POL-10068,Suresh Banerjee,North,Travel,2026-08-25,0.135,Paid,
+CLM-Q3-00684,POL-10125,Vikram Das,North,Travel,2026-08-25,0.083,Paid,
+CLM-Q3-00685,POL-10219,Aditya Gupta,North,Property,2026-08-25,0.959,Paid,Garage estimate revised
+CLM-Q3-00686,POL-10623,Lata Shah,South,Property,2026-08-25,0.965,Paid,Customer called for status
+CLM-Q3-00687,POL-10576,Suresh Menon,South,Travel,2026-08-25,0.110,Paid,
+CLM-Q3-00688,POL-10362,Kavita Chatterjee,West,Property,2026-08-25,0.160,Paid,
+CLM-Q3-00689,POL-10310,Ishaan Bose,West,Travel,2026-08-25,0.072,Paid,Garage estimate revised
+CLM-Q3-00690,POL-10360,Rekha Joshi,West,Motor,2026-08-25,0.186,Paid,Second inspection done
+CLM-Q3-00691,POL-10417,Harsh Verma,West,Health,2026-08-25,0.706,Paid,Surveyor report received
+CLM-Q3-00692,POL-10274,Varun Chauhan,West,Motor,2026-08-25,0.123,Paid,Customer called for status
+CLM-Q3-00693,POL-10674,Naveen Mishra,East,Motor,2026-08-26,0.309,Paid,
+CLM-Q3-00694,POL-10666,Anita Menon,East,Property,2026-08-26,0.367,Paid,
+CLM-Q3-00695,POL-10655,Priya Banerjee,East,Health,2026-08-26,0.637,Paid,
+CLM-Q3-00696,POL-10681,Rekha Patel,East,Motor,2026-08-26,0.361,Paid,
+CLM-Q3-00697,POL-10723,Suresh Rao,East,Motor,2026-08-26,0.330,Paid,
+CLM-Q3-00698,POL-10707,Divya Rao,East,Health,2026-08-26,0.292,Paid,
+CLM-Q3-00699,POL-10765,Karan Desai,East,Property,2026-08-26,0.829,Paid,
+CLM-Q3-00700,POL-10149,Divya Menon,North,Health,2026-08-26,0.208,Paid,Documents verified
+CLM-Q3-00701,POL-10062,Meera Chatterjee,North,Health,2026-08-26,0.617,Paid,
+CLM-Q3-00702,POL-10525,Manoj Kumar,South,Motor,2026-08-26,0.314,Paid,
+CLM-Q3-00703,POL-10572,Harsh Yadav,South,Travel,2026-08-26,0.091,Paid,Cashless approved
+CLM-Q3-00704,POL-10404,Vikram Joshi,West,Health,2026-08-26,0.262,Paid,
+CLM-Q3-00705,POL-10417,Harsh Verma,West,Motor,2026-08-26,0.180,Paid,Cashless approved
+CLM-Q3-00706,POL-10400,Karan Agarwal,West,Travel,2026-08-26,0.099,Paid,
+CLM-Q3-00707,POL-10335,Meera Pillai,West,Motor,2026-08-26,0.443,Paid,
+CLM-Q3-00708,POL-10728,Priya Jain,East,Motor,2026-08-27,0.244,Paid,
+CLM-Q3-00709,POL-10750,Divya Desai,East,Motor,2026-08-27,0.312,Paid,
+CLM-Q3-00710,POL-10022,Naveen Iyer,North,Property,2026-08-27,0.413,Paid,
+CLM-Q3-00711,POL-10055,Anita Agarwal,North,Motor,2026-08-27,0.338,Paid,Fast-track approval
+CLM-Q3-00712,POL-10096,Vikram Rao,North,Health,2026-08-27,0.121,Paid,
+CLM-Q3-00713,POL-10166,Sneha Gupta,North,Travel,2026-08-27,0.106,Paid,
+CLM-Q3-00714,POL-10486,Harsh Das,South,Motor,2026-08-27,0.325,Paid,Reimbursement - bills attached
+CLM-Q3-00715,POL-10443,Meera Joshi,South,Health,2026-08-27,0.400,Paid,
+CLM-Q3-00716,POL-10571,Arjun Desai,South,Property,2026-08-27,0.661,Paid,
+CLM-Q3-00717,POL-10370,Meera Jain,West,Travel,2026-08-27,0.071,Paid,
+CLM-Q3-00718,POL-10295,Varun Rao,West,Motor,2026-08-27,0.303,Paid,Documents verified
+CLM-Q3-00719,POL-10243,Shweta Das,West,Motor,2026-08-27,0.254,Paid,Garage estimate revised
+CLM-Q3-00720,POL-10333,Deepak Rao,West,Motor,2026-08-27,0.384,Paid,
+CLM-Q3-00721,POL-10742,Tanvi Menon,East,Health,2026-08-28,0.497,Paid,
+CLM-Q3-00722,POL-10719,Amit Sinha,East,Motor,2026-08-28,0.537,Paid,
+CLM-Q3-00723,POL-10763,Arjun Rao,East,Travel,2026-08-28,0.131,Paid,
+CLM-Q3-00724,POL-10752,Aditya Chauhan,East,Health,2026-08-28,0.152,Paid,Customer called for status
+CLM-Q3-00725,POL-10220,Mohit Chauhan,North,Motor,2026-08-28,0.190,Paid,
+CLM-Q3-00726,POL-10119,Aditya Das,North,Property,2026-08-28,0.521,Paid,
+CLM-Q3-00727,POL-10100,Sanjay Joshi,North,Property,2026-08-28,0.387,Paid,Second inspection done
+CLM-Q3-00728,POL-10204,Manoj Patel,North,Health,2026-08-28,0.191,Paid,
+CLM-Q3-00729,POL-10181,Meera Bose,North,Motor,2026-08-28,0.306,Paid,
+CLM-Q3-00730,POL-10130,Aarav Menon,North,Health,2026-08-28,0.086,Paid,
+CLM-Q3-00731,POL-10139,Ramesh Gupta,North,Motor,2026-08-28,0.517,Paid,
+CLM-Q3-00731,POL-10139,Ramesh Gupta,North,Motor,2026-08-28,0.517,Paid,
+CLM-Q3-00732,POL-10608,Suresh Pillai,South,Health,2026-08-28,0.508,Paid,
+CLM-Q3-00733,POL-10533,Aditya Sharma,South,Travel,2026-08-28,0.148,Paid,
+CLM-Q3-00734,POL-10453,Vikram Chauhan,South,Health,2026-08-28,0.156,Paid,
+CLM-Q3-00735,POL-10408,Divya Kulkarni,West,Motor,2026-08-28,0.487,Paid,Garage estimate revised
+CLM-Q3-00736,POL-10286,Rekha Nair,West,Motor,2026-08-28,0.135,Paid,
+CLM-Q3-00737,POL-10391,Anita Shah,West,Motor,2026-08-28,0.389,Paid,
+CLM-Q3-00738,POL-10394,Naveen Desai,West,Health,2026-08-28,0.135,Paid,
+CLM-Q3-00739,POL-10341,Kavita Patel,West,Motor,2026-08-28,0.212,Paid,
+CLM-Q3-00740,POL-10269,Amit Das,West,Health,2026-08-28,0.586,Paid,Fast-track approval
+CLM-Q3-00741,POL-10098,Vikram Patel,North,Health,2026-08-29,0.176,Paid,
+CLM-Q3-00742,POL-10121,Rahul Gupta,North,Property,2026-08-29,0.323,Paid,
+CLM-Q3-00743,POL-10146,Lata Das,North,Motor,2026-08-29,0.196,Paid,
+CLM-Q3-00744,POL-10107,Arjun Joshi,North,Travel,2026-08-29,0.072,Paid,
+CLM-Q3-00745,POL-10464,Arjun Banerjee,South,Motor,2026-08-29,0.354,Paid,
+CLM-Q3-00746,POL-10594,Sunita Khan,South,Property,2026-08-29,0.552,Paid,
+CLM-Q3-00747,POL-10621,Neha Joshi,South,Motor,2026-08-29,0.323,Paid,
+CLM-Q3-00748,POL-10549,Seema Kulkarni,South,Motor,2026-08-29,0.168,Paid,
+CLM-Q3-00749,POL-10642,Sunita Singh,South,Motor,2026-08-29,0.377,Paid,Cashless approved
+CLM-Q3-00750,POL-10551,Mohit Reddy,South,Health,2026-08-29,0.633,Paid,
+CLM-Q3-00751,POL-10329,Anil Desai,West,Motor,2026-08-29,0.397,Paid,
+CLM-Q3-00752,POL-10418,Sneha Ansari,West,Health,2026-08-29,0.270,Paid,
+CLM-Q3-00753,POL-10268,Lata Sharma,West,Motor,2026-08-29,0.865,Paid,
+CLM-Q3-00753,POL-10268,Lata Sharma,West,Motor,2026-08-29,0.865,Paid,
+CLM-Q3-00754,POL-10651,Sneha Sinha,East,Health,2026-08-30,0.383,Paid,
+CLM-Q3-00755,POL-10749,Anita Mishra,East,Motor,2026-08-30,0.503,Paid,
+CLM-Q3-00756,POL-10715,Amit Iyer,East,Motor,2026-08-30,0.234,Paid,
+CLM-Q3-00757,POL-10680,Amit Kulkarni,East,Travel,2026-08-30,0.158,Paid,Cashless approved
+CLM-Q3-00757,POL-10680,Amit Kulkarni,East,Travel,2026-08-30,0.158,Paid,Cashless approved
+CLM-Q3-00758,POL-10022,Naveen Iyer,North,Property,2026-08-30,0.338,Paid,
+CLM-Q3-00759,POL-10055,Anita Agarwal,North,Motor,2026-08-30,0.407,Paid,Surveyor report received
+CLM-Q3-00760,POL-10527,Komal Mishra,South,Motor,2026-08-30,0.267,Paid,Reimbursement - bills attached
+CLM-Q3-00761,POL-10515,Sunita Patel,South,Motor,2026-08-30,0.356,Paid,
+CLM-Q3-00762,POL-10618,Divya Ansari,South,Health,2026-08-30,0.216,Paid,
+CLM-Q3-00763,POL-10504,Pooja Desai,South,Travel,2026-08-30,0.228,Paid,
+CLM-Q3-00763,POL-10504,Pooja Desai,South,Travel,2026-08-30,0.228,Paid,
+CLM-Q3-00764,POL-10373,Anita Chauhan,West,Property,2026-08-30,0.208,Paid,
+CLM-Q3-00765,POL-10365,Anita Mehta,West,Motor,2026-08-30,0.283,Paid,
+CLM-Q3-00766,POL-10376,Mohit Menon,West,Motor,2026-08-30,0.246,Paid,
+CLM-Q3-00767,POL-10363,Rekha Iyer,West,Motor,2026-08-30,0.400,Paid,
+CLM-Q3-00768,POL-10657,Ritu Khan,East,Motor,2026-08-31,0.375,Paid,
+CLM-Q3-00769,POL-10724,Karan Kulkarni,East,Motor,2026-08-31,0.548,Paid,
+CLM-Q3-00770,POL-10140,Karan Pillai,North,Health,2026-08-31,0.393,Paid,
+CLM-Q3-00771,POL-10119,Aditya Das,North,Health,2026-08-31,0.673,Paid,
+CLM-Q3-00772,POL-10039,Ramesh Kumar,North,Health,2026-08-31,0.735,Paid,
+CLM-Q3-00772,POL-10039,Ramesh Kumar,North,Health,2026-08-31,0.735,Paid,
+CLM-Q3-00773,POL-10551,Mohit Reddy,South,Property,2026-08-31,0.270,Paid,
+CLM-Q3-00774,POL-10470,Vivaan Kumar,South,Travel,2026-08-31,0.051,Paid,
+CLM-Q3-00775,POL-10464,Arjun Banerjee,South,Motor,2026-08-31,0.380,Paid,
+CLM-Q3-00776,POL-10640,Neha Khan,South,Motor,2026-08-31,0.316,Paid,
+CLM-Q3-00777,POL-10499,Varun Mishra,South,Motor,2026-08-31,0.182,Paid,
+CLM-Q3-00778,POL-10497,Vivaan Reddy,South,Motor,2026-08-31,0.274,Paid,
+CLM-Q3-00779,POL-10425,Harsh Gupta,West,Health,2026-08-31,0.567,Paid,Reimbursement - bills attached
+CLM-Q3-00780,POL-10343,Arjun Nair,West,Property,2026-08-31,0.257,Paid,
+CLM-Q3-00781,POL-10711,Anil Reddy,East,Motor,2026-09-01,0.122,Paid,Reimbursement - bills attached
+CLM-Q3-00782,POL-10661,Nisha Singh,East,Property,2026-09-01,0.418,Paid,
+CLM-Q3-00783,POL-10678,Vikram Nair,East,Motor,2026-09-01,0.403,Paid,
+CLM-Q3-00784,POL-10209,Neha Singh,North,Motor,2026-09-01,0.335,Paid,
+CLM-Q3-00785,POL-10122,Deepak Reddy,North,Motor,2026-09-01,0.121,Paid,Fast-track approval
+CLM-Q3-00786,POL-10041,Vikram Yadav,North,Travel,2026-09-01,0.113,Paid,Garage estimate revised
+CLM-Q3-00787,POL-10035,Harsh Chauhan,North,Health,2026-09-01,0.743,Paid,
+CLM-Q3-00787,POL-10035,Harsh Chauhan,North,Health,2026-09-01,0.743,Paid,
+CLM-Q3-00788,POL-10464,Arjun Banerjee,South,Motor,2026-09-01,0.189,Paid,Documents verified
+CLM-Q3-00789,POL-10547,Rohan Pillai,South,Motor,2026-09-01,0.443,Paid,
+CLM-Q3-00790,POL-10486,Harsh Das,South,Health,2026-09-01,0.730,Paid,
+CLM-Q3-00791,POL-10580,Amit Khan,South,Health,2026-09-01,0.582,Paid,
+CLM-Q3-00792,POL-10368,Divya Khan,West,Motor,2026-09-01,0.169,Paid,
+CLM-Q3-00793,POL-10765,Karan Desai,East,Health,2026-09-02,0.347,Paid,
+CLM-Q3-00794,POL-10073,Rekha Kumar,North,Motor,2026-09-02,0.672,Paid,Customer called for status
+CLM-Q3-00795,POL-10071,Divya Yadav,North,Health,2026-09-02,0.342,Paid,
+CLM-Q3-00796,POL-10060,Naveen Banerjee,North,Health,2026-09-02,0.828,Paid,
+CLM-Q3-00797,POL-10225,Meera Sharma,North,Health,2026-09-02,0.699,Paid,Second inspection done
+CLM-Q3-00798,POL-10215,Gaurav Agarwal,North,Travel,2026-09-02,0.089,Paid,Customer called for status
+CLM-Q3-00799,POL-10098,Vikram Patel,North,Motor,2026-09-02,0.499,Paid,Fast-track approval
+CLM-Q3-00800,POL-10211,Divya Nair,North,Motor,2026-09-02,0.190,Paid,
+CLM-Q3-00801,POL-10191,Priya Kumar,North,Health,2026-09-02,0.687,Paid,
+CLM-Q3-00802,POL-10541,Ritu Iyer,South,Motor,2026-09-02,0.311,Paid,
+CLM-Q3-00803,POL-10476,Rohan Menon,South,Travel,2026-09-02,0.157,Paid,
+CLM-Q3-00804,POL-10438,Suresh Singh,South,Property,2026-09-02,0.344,Paid,
+CLM-Q3-00805,POL-10494,Rahul Sharma,South,Health,2026-09-02,0.425,Paid,
+CLM-Q3-00806,POL-10629,Neha Tiwari,South,Health,2026-09-02,0.197,Paid,
+CLM-Q3-00807,POL-10246,Karan Iyer,West,Health,2026-09-02,0.647,Paid,
+CLM-Q3-00808,POL-10663,Arjun Reddy,East,Motor,2026-09-03,0.435,Paid,
+CLM-Q3-00809,POL-10736,Ritu Bose,East,Motor,2026-09-03,0.286,Paid,
+CLM-Q3-00810,POL-10765,Karan Desai,East,Travel,2026-09-03,0.054,Paid,
+CLM-Q3-00811,POL-10137,Rekha Ansari,North,Property,2026-09-03,0.477,Paid,
+CLM-Q3-00812,POL-10013,Karan Das,North,Travel,2026-09-03,0.062,Paid,
+CLM-Q3-00813,POL-10226,Rohan Kulkarni,North,Motor,2026-09-03,0.406,Paid,
+CLM-Q3-00814,POL-10196,Manoj Sinha,North,Motor,2026-09-03,0.466,Paid,
+CLM-Q3-00815,POL-10025,Divya Sharma,North,Property,2026-09-03,0.594,Paid,
+CLM-Q3-00816,POL-10061,Sneha Patel,North,Property,2026-09-03,0.430,Paid,
+CLM-Q3-00817,POL-10041,Vikram Yadav,North,Motor,2026-09-03,0.573,Paid,Garage estimate revised
+CLM-Q3-00818,POL-10489,Manoj Reddy,South,Health,2026-09-03,0.177,Paid,
+CLM-Q3-00819,POL-10462,Anil Verma,South,Health,2026-09-03,0.254,Paid,
+CLM-Q3-00820,POL-10604,Amit Nair,South,Motor,2026-09-03,0.185,Paid,
+CLM-Q3-00821,POL-10389,Mohit Khan,West,Motor,2026-09-03,0.223,Paid,
+CLM-Q3-00822,POL-10406,Meera Tiwari,West,Health,2026-09-03,0.489,Paid,
+CLM-Q3-00823,POL-10294,Naveen Sinha,West,Motor,2026-09-03,0.137,Paid,
+CLM-Q3-00824,POL-10354,Aarav Nair,West,Motor,2026-09-03,0.269,Paid,
+CLM-Q3-00825,POL-10240,Manoj Pillai,West,Motor,2026-09-03,0.410,Paid,
+CLM-Q3-00825,POL-10240,Manoj Pillai,West,Motor,2026-09-03,0.410,Paid,
+CLM-Q3-00826,POL-10774,Suresh Agarwal,East,Travel,2026-09-04,0.062,Paid,Surveyor report received
+CLM-Q3-00827,POL-10687,Aditya Nair,East,Property,2026-09-04,0.133,Paid,Customer called for status
+CLM-Q3-00828,POL-10666,Anita Menon,East,Motor,2026-09-04,0.615,Paid,
+CLM-Q3-00829,POL-10138,Ramesh Jain,North,Motor,2026-09-04,0.611,Paid,
+CLM-Q3-00830,POL-10129,Naveen Kumar,North,Motor,2026-09-04,0.300,Paid,
+CLM-Q3-00831,POL-10193,Arjun Kulkarni,North,Motor,2026-09-04,0.302,Paid,
+CLM-Q3-00832,POL-10170,Suresh Reddy,North,Travel,2026-09-04,0.233,Paid,
+CLM-Q3-00833,POL-10122,Deepak Reddy,North,Health,2026-09-04,0.544,Paid,
+CLM-Q3-00834,POL-10432,Komal Verma,South,Travel,2026-09-04,0.029,Paid,
+CLM-Q3-00835,POL-10449,Deepak Verma,South,Health,2026-09-04,0.296,Paid,
+CLM-Q3-00836,POL-10635,Suresh Joshi,South,Motor,2026-09-04,0.119,Paid,
+CLM-Q3-00837,POL-10439,Shweta Pillai,South,Motor,2026-09-04,0.454,Paid,
+CLM-Q3-00838,POL-10522,Karan Joshi,South,Health,2026-09-04,0.525,Paid,
+CLM-Q3-00839,POL-10425,Harsh Gupta,West,Motor,2026-09-04,0.308,Paid,Garage estimate revised
+CLM-Q3-00840,POL-10251,Neha Agarwal,West,Motor,2026-09-04,0.256,Paid,
+CLM-Q3-00841,POL-10686,Sunita Rao,East,Health,2026-09-05,0.452,Paid,
+CLM-Q3-00842,POL-10100,Sanjay Joshi,North,Motor,2026-09-05,0.189,Paid,
+CLM-Q3-00843,POL-10217,Karan Chatterjee,North,Property,2026-09-05,0.185,Paid,
+CLM-Q3-00844,POL-10195,Vivaan Nair,North,Travel,2026-09-05,0.475,Paid,
+CLM-Q3-00845,POL-10053,Suresh Chatterjee,North,Motor,2026-09-05,0.417,Paid,
+CLM-Q3-00846,POL-10030,Ritu Reddy,North,Health,2026-09-05,0.261,Paid,
+CLM-Q3-00846,POL-10030,Ritu Reddy,North,Health,2026-09-05,0.261,Paid,
+CLM-Q3-00847,POL-10569,Lata Jain,South,Motor,2026-09-05,0.589,Paid,
+CLM-Q3-00848,POL-10512,Divya Mehta,South,Motor,2026-09-05,0.311,Paid,
+CLM-Q3-00849,POL-10260,Rekha Mehta,West,Health,2026-09-05,0.494,Paid,
+CLM-Q3-00850,POL-10306,Shweta Singh,West,Health,2026-09-05,0.524,Paid,
+CLM-Q3-00851,POL-10262,Karan Sharma,West,Property,2026-09-05,0.445,Paid,
+CLM-Q3-00852,POL-10772,Aditya Sinha,East,Health,2026-09-06,0.737,Paid,
+CLM-Q3-00853,POL-10741,Aarav Chauhan,East,Property,2026-09-06,0.656,Paid,
+CLM-Q3-00854,POL-10665,Rahul Banerjee,East,Health,2026-09-06,0.207,Paid,Documents verified
+CLM-Q3-00855,POL-10092,Suresh Mehta,North,Property,2026-09-06,0.276,Paid,
+CLM-Q3-00856,POL-10171,Gaurav Khan,North,Property,2026-09-06,1.183,Paid,
+CLM-Q3-00857,POL-10460,Vikram Khan,South,Motor,2026-09-06,0.303,Paid,Reimbursement - bills attached
+CLM-Q3-00858,POL-10503,Priya Verma,South,Motor,2026-09-06,0.415,Paid,
+CLM-Q3-00859,POL-10584,Priya Iyer,South,Property,2026-09-06,1.633,Paid,
+CLM-Q3-00860,POL-10617,Harsh Kulkarni,South,Health,2026-09-06,0.196,Paid,Cashless approved
+CLM-Q3-00861,POL-10505,Amit Sharma,South,Motor,2026-09-06,0.597,Paid,
+CLM-Q3-00862,POL-10648,Gaurav Singh,South,Motor,2026-09-06,0.293,Paid,
+CLM-Q3-00862,POL-10648,Gaurav Singh,South,Motor,2026-09-06,0.293,Paid,
+CLM-Q3-00863,POL-10319,Gaurav Pillai,West,Health,2026-09-06,0.317,Paid,
+CLM-Q3-00864,POL-10686,Sunita Rao,East,Motor,2026-09-07,0.288,Paid,
+CLM-Q3-00865,POL-10099,Naveen Jain,North,Travel,2026-09-07,0.044,Paid,
+CLM-Q3-00866,POL-10204,Manoj Patel,North,Health,2026-09-07,0.956,Paid,
+CLM-Q3-00866,POL-10204,Manoj Patel,North,Health,2026-09-07,0.956,Paid,
+CLM-Q3-00867,POL-10447,Nisha Patel,South,Motor,2026-09-07,0.098,Paid,
+CLM-Q3-00868,POL-10626,Rekha Menon,South,Motor,2026-09-07,0.216,Paid,
+CLM-Q3-00869,POL-10567,Meera Verma,South,Motor,2026-09-07,0.437,Paid,
+CLM-Q3-00870,POL-10512,Divya Mehta,South,Motor,2026-09-07,0.345,Paid,
+CLM-Q3-00871,POL-10490,Seema Das,South,Property,2026-09-07,0.868,Paid,
+CLM-Q3-00872,POL-10451,Amit Chatterjee,South,Motor,2026-09-07,0.233,Paid,
+CLM-Q3-00873,POL-10643,Nisha Chatterjee,South,Travel,2026-09-07,0.103,Paid,Documents verified
+CLM-Q3-00874,POL-10566,Divya Gupta,South,Health,2026-09-07,0.487,Paid,
+CLM-Q3-00875,POL-10308,Gaurav Patel,West,Property,2026-09-07,0.219,Paid,Customer called for status
+CLM-Q3-00876,POL-10352,Arjun Gupta,West,Motor,2026-09-07,0.581,Paid,
+CLM-Q3-00876,POL-10352,Arjun Gupta,West,Motor,2026-09-07,0.581,Paid,
+CLM-Q3-00877,POL-10704,Pankaj Rao,East,Health,2026-09-08,0.215,Paid,
+CLM-Q3-00878,POL-10771,Rohan Joshi,East,Health,2026-09-08,0.458,Paid,
+CLM-Q3-00879,POL-10158,Shweta Menon,North,Property,2026-09-08,0.728,Paid,
+CLM-Q3-00880,POL-10039,Ramesh Kumar,North,Motor,2026-09-08,0.325,Paid,
+CLM-Q3-00881,POL-10196,Manoj Sinha,North,Property,2026-09-08,0.426,Paid,
+CLM-Q3-00882,POL-10095,Sneha Sharma,North,Property,2026-09-08,0.545,Paid,
+CLM-Q3-00883,POL-10201,Varun Mehta,North,Property,2026-09-08,0.439,Paid,
+CLM-Q3-00884,POL-10378,Ramesh Menon,West,Health,2026-09-08,0.549,Paid,
+CLM-Q3-00885,POL-10428,Sanjay Kulkarni,West,Health,2026-09-08,0.371,Paid,
+CLM-Q3-00886,POL-10286,Rekha Nair,West,Health,2026-09-08,0.620,Paid,
+CLM-Q3-00887,POL-10408,Divya Kulkarni,West,Property,2026-09-08,1.650,Paid,
+CLM-Q3-00887,POL-10408,Divya Kulkarni,West,Property,2026-09-08,1.650,Paid,
+CLM-Q3-00888,POL-10754,Ramesh Sinha,East,Health,2026-09-09,0.291,Paid,
+CLM-Q3-00889,POL-10660,Anita Sharma,East,Travel,2026-09-09,0.142,Paid,
+CLM-Q3-00890,POL-10712,Vikram Reddy,East,Motor,2026-09-09,0.187,Paid,
+CLM-Q3-00891,POL-10780,Lata Reddy,East,Health,2026-09-09,0.549,Paid,
+CLM-Q3-00892,POL-10218,Naveen Menon,North,Property,2026-09-09,0.499,Paid,
+CLM-Q3-00893,POL-10187,Naveen Mehta,North,Health,2026-09-09,0.439,Paid,
+CLM-Q3-00894,POL-10015,Mohit Iyer,North,Motor,2026-09-09,0.374,Paid,
+CLM-Q3-00895,POL-10206,Sunita Nair,North,Motor,2026-09-09,0.227,Paid,Documents verified
+CLM-Q3-00896,POL-10201,Varun Mehta,North,Health,2026-09-09,0.351,Paid,Fast-track approval
+CLM-Q3-00897,POL-10132,Sanjay Tiwari,North,Health,2026-09-09,0.477,Paid,
+CLM-Q3-00897,POL-10132,Sanjay Tiwari,North,Health,2026-09-09,0.477,Paid,
+CLM-Q3-00898,POL-10558,Karan Mehta,South,Travel,2026-09-09,0.079,Paid,
+CLM-Q3-00899,POL-10633,Amit Jain,South,Travel,2026-09-09,0.171,Paid,
+CLM-Q3-00900,POL-10506,Seema Ansari,South,Property,2026-09-09,0.432,Paid,
+CLM-Q3-00901,POL-10693,Suresh Desai,East,Health,2026-09-10,0.960,Paid,Surveyor report received
+CLM-Q3-00902,POL-10761,Vivaan Ansari,East,Motor,2026-09-10,0.266,Paid,
+CLM-Q3-00903,POL-10067,Aarav Gupta,North,Motor,2026-09-10,0.312,Paid,Fast-track approval
+CLM-Q3-00904,POL-10463,Manoj Singh,South,Motor,2026-09-10,0.221,Paid,
+CLM-Q3-00905,POL-10596,Sneha Khan,South,Motor,2026-09-10,0.287,Paid,
+CLM-Q3-00906,POL-10561,Amit Agarwal,South,Motor,2026-09-10,0.265,Paid,
+CLM-Q3-00907,POL-10480,Nisha Verma,South,Property,2026-09-10,0.336,Paid,
+CLM-Q3-00908,POL-10438,Suresh Singh,South,Motor,2026-09-10,0.528,Paid,
+CLM-Q3-00909,POL-10278,Deepak Agarwal,West,Property,2026-09-10,0.898,Paid,
+CLM-Q3-00910,POL-10269,Amit Das,West,Travel,2026-09-10,0.131,Paid,
+CLM-Q3-00911,POL-10713,Manoj Chatterjee,East,Motor,2026-09-11,0.339,Paid,
+CLM-Q3-00912,POL-10226,Rohan Kulkarni,North,Property,2026-09-11,0.496,Paid,
+CLM-Q3-00913,POL-10160,Kavita Agarwal,North,Motor,2026-09-11,0.327,Paid,Surveyor report received
+CLM-Q3-00914,POL-10142,Anil Banerjee,North,Motor,2026-09-11,0.274,Paid,
+CLM-Q3-00915,POL-10034,Rahul Mehta,North,Health,2026-09-11,0.478,Paid,
+CLM-Q3-00916,POL-10103,Priya Yadav,North,Motor,2026-09-11,0.123,Paid,
+CLM-Q3-00917,POL-10212,Aarav Khan,North,Motor,2026-09-11,1.096,Paid,
+CLM-Q3-00918,POL-10475,Mohit Kumar,South,Motor,2026-09-11,0.495,Paid,
+CLM-Q3-00919,POL-10540,Seema Shah,South,Motor,2026-09-11,0.279,Paid,Fast-track approval
+CLM-Q3-00920,POL-10255,Arjun Yadav,West,Health,2026-09-11,0.419,Paid,Garage estimate revised
+CLM-Q3-00921,POL-10328,Anita Tiwari,West,Health,2026-09-11,0.355,Paid,
+CLM-Q3-00922,POL-10278,Deepak Agarwal,West,Travel,2026-09-11,0.056,Paid,
+CLM-Q3-00923,POL-10284,Ritu Shah,West,Motor,2026-09-11,0.314,Paid,
+CLM-Q3-00924,POL-10688,Harsh Banerjee,East,Property,2026-09-12,0.090,Paid,
+CLM-Q3-00925,POL-10007,Komal Jain,North,Motor,2026-09-12,0.426,Paid,Customer called for status
+CLM-Q3-00926,POL-10077,Rahul Ansari,North,Motor,2026-09-12,0.423,Paid,Cashless approved
+CLM-Q3-00927,POL-10443,Meera Joshi,South,Motor,2026-09-12,0.271,Paid,Second inspection done
+CLM-Q3-00928,POL-10623,Lata Shah,South,Motor,2026-09-12,0.429,Paid,
+CLM-Q3-00929,POL-10654,Seema Banerjee,East,Property,2026-09-13,0.322,Paid,
+CLM-Q3-00930,POL-10729,Ramesh Rao,East,Travel,2026-09-13,0.092,Paid,
+CLM-Q3-00931,POL-10070,Rekha Jain,North,Motor,2026-09-13,0.690,Paid,Surveyor report received
+CLM-Q3-00932,POL-10202,Pankaj Mehta,North,Health,2026-09-13,0.410,Paid,
+CLM-Q3-00933,POL-10163,Manoj Gupta,North,Motor,2026-09-13,0.235,Paid,
+CLM-Q3-00934,POL-10639,Kavita Kumar,South,Health,2026-09-13,0.275,Paid,
+CLM-Q3-00935,POL-10608,Suresh Pillai,South,Motor,2026-09-13,0.105,Paid,Second inspection done
+CLM-Q3-00936,POL-10580,Amit Khan,South,Health,2026-09-13,0.659,Paid,Surveyor report received
+CLM-Q3-00937,POL-10489,Manoj Reddy,South,Motor,2026-09-13,0.965,Paid,Reimbursement - bills attached
+CLM-Q3-00938,POL-10325,Shweta Desai,West,Health,2026-09-13,1.388,Paid,
+CLM-Q3-00939,POL-10248,Aditya Rao,West,Motor,2026-09-13,0.265,Paid,
+CLM-Q3-00940,POL-10386,Amit Shah,West,Motor,2026-09-13,0.107,Paid,
+CLM-Q3-00941,POL-10690,Meera Kulkarni,East,Property,2026-09-14,0.903,Paid,
+CLM-Q3-00942,POL-10704,Pankaj Rao,East,Health,2026-09-14,0.671,Paid,
+CLM-Q3-00943,POL-10103,Priya Yadav,North,Health,2026-09-14,0.211,Paid,
+CLM-Q3-00944,POL-10197,Shweta Kumar,North,Motor,2026-09-14,0.538,Paid,Cashless approved
+CLM-Q3-00945,POL-10176,Shweta Bose,North,Travel,2026-09-14,0.099,Paid,
+CLM-Q3-00946,POL-10044,Lata Nair,North,Motor,2026-09-14,0.640,Paid,
+CLM-Q3-00947,POL-10474,Ritu Singh,South,Property,2026-09-14,0.617,Paid,
+CLM-Q3-00948,POL-10625,Harsh Rao,South,Property,2026-09-14,0.497,Paid,Customer called for status
+CLM-Q3-00949,POL-10242,Amit Pillai,West,Health,2026-09-14,0.206,Paid,
+CLM-Q3-00950,POL-10304,Pooja Reddy,West,Health,2026-09-14,0.396,Paid,Reimbursement - bills attached
+CLM-Q3-00951,POL-10258,Deepak Yadav,West,Travel,2026-09-14,0.170,Paid,
+CLM-Q3-00952,POL-10654,Seema Banerjee,East,Motor,2026-09-15,0.232,Paid,
+CLM-Q3-00953,POL-10652,Komal Banerjee,East,Property,2026-09-15,0.480,Paid,
+CLM-Q3-00954,POL-10013,Karan Das,North,Travel,2026-09-15,0.066,Paid,
+CLM-Q3-00955,POL-10161,Vivaan Kulkarni,North,Health,2026-09-15,0.515,Paid,
+CLM-Q3-00956,POL-10092,Suresh Mehta,North,Motor,2026-09-15,0.144,Paid,
+CLM-Q3-00957,POL-10068,Suresh Banerjee,North,Health,2026-09-15,0.367,Paid,
+CLM-Q3-00958,POL-10164,Sanjay Reddy,North,Health,2026-09-15,0.574,Paid,
+CLM-Q3-00959,POL-10062,Meera Chatterjee,North,Motor,2026-09-15,0.508,Paid,
+CLM-Q3-00959,POL-10062,Meera Chatterjee,North,Motor,2026-09-15,0.508,Paid,
+CLM-Q3-00960,POL-10213,Ramesh Khan,North,Health,2026-09-15,0.781,Paid,
+CLM-Q3-00960,POL-10213,Ramesh Khan,North,Health,2026-09-15,0.781,Paid,
+CLM-Q3-00961,POL-10563,Karan Chauhan,South,Motor,2026-09-15,0.220,Paid,
+CLM-Q3-00962,POL-10531,Aditya Menon,South,Property,2026-09-15,0.512,Paid,
+CLM-Q3-00963,POL-10579,Seema Mishra,South,Motor,2026-09-15,0.265,Paid,
+CLM-Q3-00964,POL-10561,Amit Agarwal,South,Health,2026-09-15,0.757,Paid,
+CLM-Q3-00965,POL-10372,Ritu Kulkarni,West,Travel,2026-09-15,0.182,Paid,Customer called for status
+CLM-Q3-00966,POL-10357,Ritu Sharma,West,Motor,2026-09-15,0.194,Paid,
+CLM-Q3-00967,POL-10411,Manoj Das,West,Motor,2026-09-15,0.337,Paid,
+CLM-Q3-00968,POL-10267,Seema Reddy,West,Health,2026-09-15,0.324,Paid,Cashless approved
+CLM-Q3-00969,POL-10718,Arjun Patel,East,Motor,2026-09-16,0.292,Paid,
+CLM-Q3-00970,POL-10173,Komal Kumar,North,Motor,2026-09-16,0.490,Paid,
+CLM-Q3-00971,POL-10071,Divya Yadav,North,Motor,2026-09-16,0.394,Paid,Surveyor report received
+CLM-Q3-00972,POL-10166,Sneha Gupta,North,Motor,2026-09-16,0.219,Paid,
+CLM-Q3-00973,POL-10037,Anita Joshi,North,Motor,2026-09-16,0.275,Paid,Cashless approved
+CLM-Q3-00974,POL-10072,Ritu Mishra,North,Travel,2026-09-16,0.247,Paid,
+CLM-Q3-00975,POL-10496,Gaurav Nair,South,Motor,2026-09-16,0.479,Paid,Fast-track approval
+CLM-Q3-00976,POL-10550,Anil Bose,South,Motor,2026-09-16,0.336,Paid,
+CLM-Q3-00977,POL-10447,Nisha Patel,South,Motor,2026-09-16,0.201,Paid,
+CLM-Q3-00978,POL-10451,Amit Chatterjee,South,Health,2026-09-16,0.320,Paid,Surveyor report received
+CLM-Q3-00979,POL-10244,Anita Verma,West,Travel,2026-09-16,0.185,Paid,
+CLM-Q3-00980,POL-10388,Sunita Iyer,West,Property,2026-09-16,0.586,Paid,
+CLM-Q3-00981,POL-10358,Ishaan Das,West,Health,2026-09-16,0.603,Paid,
+CLM-Q3-00982,POL-10270,Gaurav Jain,West,Property,2026-09-16,1.317,Paid,
+CLM-Q3-00983,POL-10254,Mohit Mishra,West,Motor,2026-09-16,0.253,Paid,
+CLM-Q3-00984,POL-10340,Sunita Mehta,West,Health,2026-09-16,0.702,Paid,Reimbursement - bills attached
+CLM-Q3-00985,POL-10720,Kavita Reddy,East,Motor,2026-09-17,0.443,Paid,
+CLM-Q3-00986,POL-10772,Aditya Sinha,East,Travel,2026-09-17,0.065,Paid,
+CLM-Q3-00987,POL-10140,Karan Pillai,North,Motor,2026-09-17,0.258,Paid,
+CLM-Q3-00988,POL-10140,Karan Pillai,North,Motor,2026-09-17,0.402,Paid,
+CLM-Q3-00989,POL-10110,Anita Rao,North,Health,2026-09-17,0.467,Paid,
+CLM-Q3-00990,POL-10132,Sanjay Tiwari,North,Motor,2026-09-17,1.017,Paid,
+CLM-Q3-00991,POL-10013,Karan Das,North,Motor,2026-09-17,0.580,Paid,
+CLM-Q3-00992,POL-10083,Amit Singh,North,Health,2026-09-17,0.160,Paid,
+CLM-Q3-00993,POL-10648,Gaurav Singh,South,Property,2026-09-17,0.336,Paid,
+CLM-Q3-00994,POL-10470,Vivaan Kumar,South,Property,2026-09-17,0.332,Paid,
+CLM-Q3-00995,POL-10628,Manoj Tiwari,South,Property,2026-09-17,0.518,Paid,
+CLM-Q3-00996,POL-10491,Aarav Mishra,South,Health,2026-09-17,0.161,Paid,Documents verified
+CLM-Q3-00997,POL-10483,Vikram Kulkarni,South,Property,2026-09-17,0.337,Paid,
+CLM-Q3-00998,POL-10688,Harsh Banerjee,East,Motor,2026-09-18,0.506,Paid,
+CLM-Q3-00999,POL-10073,Rekha Kumar,North,Health,2026-09-18,0.340,Paid,Documents verified
+CLM-Q3-01000,POL-10084,Ishaan Tiwari,North,Health,2026-09-18,0.895,Paid,
+CLM-Q3-01001,POL-10542,Rohan Rao,South,Property,2026-09-18,0.958,Paid,
+CLM-Q3-01002,POL-10552,Divya Chatterjee,South,Property,2026-09-18,0.518,Paid,Documents verified
+CLM-Q3-01003,POL-10469,Meera Mehta,South,Motor,2026-09-18,0.664,Paid,
+CLM-Q3-01004,POL-10496,Gaurav Nair,South,Health,2026-09-18,0.303,Paid,
+CLM-Q3-01005,POL-10505,Amit Sharma,South,Motor,2026-09-18,0.327,Paid,Documents verified
+CLM-Q3-01006,POL-10311,Pankaj Kulkarni,West,Property,2026-09-18,0.203,Paid,Second inspection done
+CLM-Q3-01007,POL-10232,Priya Chatterjee,West,Health,2026-09-18,0.289,Paid,
+CLM-Q3-01008,POL-10656,Ishaan Iyer,East,Health,2026-09-19,0.404,Paid,
+CLM-Q3-01009,POL-10701,Ishaan Chauhan,East,Property,2026-09-19,0.552,Paid,
+CLM-Q3-01010,POL-10717,Naveen Reddy,East,Property,2026-09-19,0.418,Paid,
+CLM-Q3-01011,POL-10123,Aditya Desai,North,Motor,2026-09-19,0.488,Paid,
+CLM-Q3-01012,POL-10214,Kavita Rao,North,Motor,2026-09-19,0.529,Paid,
+CLM-Q3-01013,POL-10636,Suresh Khan,South,Health,2026-09-19,0.410,Paid,
+CLM-Q3-01014,POL-10306,Shweta Singh,West,Motor,2026-09-19,0.486,Paid,
+CLM-Q3-01015,POL-10245,Neha Ansari,West,Motor,2026-09-19,0.626,Paid,
+CLM-Q3-01016,POL-10319,Gaurav Pillai,West,Motor,2026-09-19,0.163,Paid,
+CLM-Q3-01017,POL-10346,Rohan Mishra,West,Travel,2026-09-19,0.108,Paid,Garage estimate revised
+CLM-Q3-01018,POL-10260,Rekha Mehta,West,Health,2026-09-19,0.350,Paid,
+CLM-Q3-01019,POL-10060,Naveen Banerjee,North,Motor,2026-09-20,0.453,Paid,
+CLM-Q3-01020,POL-10183,Ishaan Joshi,North,Property,2026-09-20,0.654,Paid,Cashless approved
+CLM-Q3-01021,POL-10442,Ishaan Sinha,South,Motor,2026-09-20,0.425,Paid,
+CLM-Q3-01022,POL-10512,Divya Mehta,South,Motor,2026-09-20,0.375,Paid,Surveyor report received
+CLM-Q3-01023,POL-10431,Neha Mehta,South,Motor,2026-09-20,0.632,Paid,
+CLM-Q3-01023,POL-10431,Neha Mehta,South,Motor,2026-09-20,0.632,Paid,
+CLM-Q3-01024,POL-10335,Meera Pillai,West,Motor,2026-09-20,0.253,Paid,
+CLM-Q3-01024,POL-10335,Meera Pillai,West,Motor,2026-09-20,0.253,Paid,
+CLM-Q3-01025,POL-10739,Sanjay Verma,East,Property,2026-09-21,0.929,Paid,
+CLM-Q3-01026,POL-10707,Divya Rao,East,Health,2026-09-21,0.357,Paid,Surveyor report received
+CLM-Q3-01027,POL-10750,Divya Desai,East,Travel,2026-09-21,0.041,Paid,
+CLM-Q3-01028,POL-10061,Sneha Patel,North,Health,2026-09-21,0.188,Paid,
+CLM-Q3-01029,POL-10148,Divya Reddy,North,Motor,2026-09-21,0.367,Paid,
+CLM-Q3-01030,POL-10001,Amit Reddy,North,Health,2026-09-21,0.334,Paid,
+CLM-Q3-01031,POL-10495,Meera Nair,South,Motor,2026-09-21,0.676,Paid,
+CLM-Q3-01032,POL-10508,Varun Pillai,South,Property,2026-09-21,0.372,Paid,
+CLM-Q3-01033,POL-10309,Ramesh Joshi,West,Motor,2026-09-21,0.317,Paid,
+CLM-Q3-01034,POL-10344,Shweta Joshi,West,Motor,2026-09-21,0.379,Paid,Second inspection done
+CLM-Q3-01035,POL-10234,Deepak Khan,West,Motor,2026-09-21,0.174,Paid,Surveyor report received
+CLM-Q3-01036,POL-10312,Vivaan Jain,West,Motor,2026-09-21,0.192,Paid,Garage estimate revised
+CLM-Q3-01037,POL-10350,Sneha Kumar,West,Health,2026-09-21,1.044,Paid,
+CLM-Q3-01037,POL-10350,Sneha Kumar,West,Health,2026-09-21,1.044,Paid,
+CLM-Q3-01038,POL-10651,Sneha Sinha,East,Health,2026-09-22,0.430,Paid,
+CLM-Q3-01039,POL-10763,Arjun Rao,East,Travel,2026-09-22,0.064,Paid,
+CLM-Q3-01040,POL-10073,Rekha Kumar,North,Health,2026-09-22,0.314,Paid,
+CLM-Q3-01041,POL-10216,Rekha Reddy,North,Travel,2026-09-22,0.228,Paid,Surveyor report received
+CLM-Q3-01042,POL-10181,Meera Bose,North,Property,2026-09-22,0.720,Paid,
+CLM-Q3-01043,POL-10111,Ishaan Yadav,North,Motor,2026-09-22,0.276,Paid,Surveyor report received
+CLM-Q3-01044,POL-10052,Lata Ansari,North,Health,2026-09-22,0.150,Paid,
+CLM-Q3-01045,POL-10203,Kavita Jain,North,Property,2026-09-22,0.701,Paid,Surveyor report received
+CLM-Q3-01046,POL-10506,Seema Ansari,South,Health,2026-09-22,0.524,Paid,Customer called for status
+CLM-Q3-01047,POL-10595,Nisha Das,South,Motor,2026-09-22,0.206,Paid,
+CLM-Q3-01048,POL-10464,Arjun Banerjee,South,Property,2026-09-22,0.517,Paid,
+CLM-Q3-01049,POL-10461,Nisha Bose,South,Motor,2026-09-22,0.254,Paid,
+CLM-Q3-01050,POL-10481,Sneha Chauhan,South,Travel,2026-09-22,0.258,Paid,
+CLM-Q3-01050,POL-10481,Sneha Chauhan,South,Travel,2026-09-22,0.258,Paid,
+CLM-Q3-01051,POL-10297,Shweta Ansari,West,Motor,2026-09-22,0.231,Paid,
+CLM-Q3-01052,POL-10235,Sunita Das,West,Health,2026-09-22,0.344,Paid,Second inspection done
+CLM-Q3-01053,POL-10343,Arjun Nair,West,Health,2026-09-22,0.326,Paid,
+CLM-Q3-01054,POL-10370,Meera Jain,West,Motor,2026-09-22,0.326,Paid,
+CLM-Q3-01055,POL-10661,Nisha Singh,East,Motor,2026-09-23,0.234,Paid,
+CLM-Q3-01056,POL-10714,Vikram Iyer,East,Motor,2026-09-23,0.574,Paid,
+CLM-Q3-01056,POL-10714,Vikram Iyer,East,Motor,2026-09-23,0.574,Paid,
+CLM-Q3-01057,POL-10754,Ramesh Sinha,East,Travel,2026-09-23,0.166,Paid,Reimbursement - bills attached
+CLM-Q3-01057,POL-10754,Ramesh Sinha,East,Travel,2026-09-23,0.166,Paid,Reimbursement - bills attached
+CLM-Q3-01058,POL-10201,Varun Mehta,North,Motor,2026-09-23,0.176,Paid,
+CLM-Q3-01059,POL-10063,Shweta Nair,North,Motor,2026-09-23,0.275,Paid,Second inspection done
+CLM-Q3-01060,POL-10640,Neha Khan,South,Health,2026-09-23,0.690,Paid,
+CLM-Q3-01061,POL-10623,Lata Shah,South,Motor,2026-09-23,0.136,Paid,
+CLM-Q3-01062,POL-10616,Rohan Nair,South,Health,2026-09-23,0.356,Paid,
+CLM-Q3-01063,POL-10462,Anil Verma,South,Health,2026-09-23,0.773,Paid,
+CLM-Q3-01063,POL-10462,Anil Verma,South,Health,2026-09-23,0.773,Paid,
+CLM-Q3-01064,POL-10364,Meera Mishra,West,Motor,2026-09-23,0.743,Paid,
+CLM-Q3-01065,POL-10319,Gaurav Pillai,West,Property,2026-09-23,0.378,Paid,
+CLM-Q3-01066,POL-10424,Neha Das,West,Motor,2026-09-23,0.261,Paid,
+CLM-Q3-01067,POL-10262,Karan Sharma,West,Travel,2026-09-23,0.131,Paid,Customer called for status
+CLM-Q3-01068,POL-10136,Tanvi Chauhan,North,Motor,2026-09-24,0.275,Paid,
+CLM-Q3-01069,POL-10104,Varun Menon,North,Property,2026-09-24,0.612,Paid,
+CLM-Q3-01070,POL-10031,Varun Iyer,North,Property,2026-09-24,0.871,Paid,Customer called for status
+CLM-Q3-01071,POL-10090,Suresh Nair,North,Motor,2026-09-24,0.083,Paid,
+CLM-Q3-01072,POL-10557,Vivaan Agarwal,South,Motor,2026-09-24,0.342,Paid,
+CLM-Q3-01073,POL-10610,Sanjay Das,South,Motor,2026-09-24,0.650,Paid,Customer called for status
+CLM-Q3-01074,POL-10254,Mohit Mishra,West,Travel,2026-09-24,0.114,Paid,
+CLM-Q3-01075,POL-10424,Neha Das,West,Health,2026-09-24,0.973,Paid,
+CLM-Q3-01076,POL-10327,Sneha Singh,West,Health,2026-09-24,1.105,Paid,
+CLM-Q3-01076,POL-10327,Sneha Singh,West,Health,2026-09-24,1.105,Paid,
+CLM-Q3-01077,POL-10259,Priya Patel,West,Motor,2026-09-24,0.325,Paid,
+CLM-Q3-01077,POL-10259,Priya Patel,West,Motor,2026-09-24,0.325,Paid,
+CLM-Q3-01078,POL-10663,Arjun Reddy,East,Motor,2026-09-25,0.294,Paid,
+CLM-Q3-01079,POL-10076,Ramesh Desai,North,Health,2026-09-25,0.259,Paid,
+CLM-Q3-01080,POL-10085,Anil Tiwari,North,Motor,2026-09-25,0.225,Paid,Fast-track approval
+CLM-Q3-01081,POL-10040,Lata Mishra,North,Travel,2026-09-25,0.045,Paid,
+CLM-Q3-01082,POL-10586,Anita Kumar,South,Health,2026-09-25,0.253,Paid,Customer called for status
+CLM-Q3-01083,POL-10616,Rohan Nair,South,Health,2026-09-25,0.646,Paid,
+CLM-Q3-01084,POL-10618,Divya Ansari,South,Travel,2026-09-25,0.052,Paid,
+CLM-Q3-01085,POL-10509,Komal Sharma,South,Motor,2026-09-25,0.119,Paid,
+CLM-Q3-01086,POL-10539,Shweta Gupta,South,Motor,2026-09-25,0.174,Paid,
+CLM-Q3-01087,POL-10364,Meera Mishra,West,Property,2026-09-25,0.512,Paid,
+CLM-Q3-01088,POL-10325,Shweta Desai,West,Health,2026-09-25,0.293,Paid,
+CLM-Q3-01089,POL-10261,Divya Agarwal,West,Motor,2026-09-25,0.236,Paid,
+CLM-Q3-01090,POL-10673,Anita Gupta,East,Motor,2026-09-26,0.349,Paid,
+CLM-Q3-01091,POL-10117,Rahul Sinha,North,Health,2026-09-26,0.484,Paid,
+CLM-Q3-01092,POL-10134,Rohan Das,North,Motor,2026-09-26,0.180,Paid,Cashless approved
+CLM-Q3-01093,POL-10149,Divya Menon,North,Motor,2026-09-26,0.489,Paid,
+CLM-Q3-01094,POL-10436,Meera Yadav,South,Motor,2026-09-26,0.265,Paid,
+CLM-Q3-01095,POL-10643,Nisha Chatterjee,South,Property,2026-09-26,0.390,Paid,
+CLM-Q3-01096,POL-10338,Naveen Pillai,West,Motor,2026-09-26,0.223,Paid,
+CLM-Q3-01097,POL-10358,Ishaan Das,West,Property,2026-09-26,0.863,Paid,
+CLM-Q3-01098,POL-10394,Naveen Desai,West,Motor,2026-09-26,0.467,Paid,
+CLM-Q3-01099,POL-10246,Karan Iyer,West,Motor,2026-09-26,0.247,Paid,
+CLM-Q3-01100,POL-10733,Rohan Bose,East,Motor,2026-09-27,0.264,Paid,
+CLM-Q3-01101,POL-10721,Tanvi Kumar,East,Health,2026-09-27,0.603,Paid,Cashless approved
+CLM-Q3-01102,POL-10659,Kavita Banerjee,East,Health,2026-09-27,0.536,Paid,
+CLM-Q3-01102,POL-10659,Kavita Banerjee,East,Health,2026-09-27,0.536,Paid,
+CLM-Q3-01103,POL-10064,Anil Ansari,North,Health,2026-09-27,0.344,Paid,
+CLM-Q3-01104,POL-10194,Sanjay Banerjee,North,Motor,2026-09-27,0.150,Paid,
+CLM-Q3-01105,POL-10227,Suresh Shah,North,Motor,2026-09-27,0.208,Paid,
+CLM-Q3-01106,POL-10201,Varun Mehta,North,Motor,2026-09-27,1.220,Paid,Second inspection done
+CLM-Q3-01107,POL-10017,Kavita Kulkarni,North,Motor,2026-09-27,0.400,Paid,Second inspection done
+CLM-Q3-01108,POL-10218,Naveen Menon,North,Motor,2026-09-27,0.339,Paid,
+CLM-Q3-01109,POL-10475,Mohit Kumar,South,Travel,2026-09-27,0.188,Paid,
+CLM-Q3-01110,POL-10439,Shweta Pillai,South,Health,2026-09-27,0.347,Paid,Second inspection done
+CLM-Q3-01111,POL-10452,Lata Rao,South,Property,2026-09-27,0.258,Paid,
+CLM-Q3-01112,POL-10621,Neha Joshi,South,Motor,2026-09-27,0.298,Paid,
+CLM-Q3-01113,POL-10402,Deepak Sinha,West,Health,2026-09-27,0.301,Paid,
+CLM-Q3-01114,POL-10397,Priya Joshi,West,Motor,2026-09-27,0.143,Paid,Customer called for status
+CLM-Q3-01115,POL-10276,Mohit Nair,West,Property,2026-09-27,0.376,Paid,
+CLM-Q3-01116,POL-10274,Varun Chauhan,West,Health,2026-09-27,0.364,Paid,
+CLM-Q3-01117,POL-10237,Pooja Bose,West,Motor,2026-09-27,0.406,Paid,
+CLM-Q3-01118,POL-10306,Shweta Singh,West,Health,2026-09-27,0.274,Paid,Surveyor report received
+CLM-Q3-01119,POL-10765,Karan Desai,East,Motor,2026-09-28,0.483,Paid,
+CLM-Q3-01120,POL-10709,Vivaan Verma,East,Motor,2026-09-28,0.120,Paid,
+CLM-Q3-01121,POL-10755,Pankaj Nair,East,Health,2026-09-28,1.357,Paid,
+CLM-Q3-01121,POL-10755,Pankaj Nair,East,Health,2026-09-28,1.357,Paid,
+CLM-Q3-01122,POL-10164,Sanjay Reddy,North,Motor,2026-09-28,0.234,Paid,
+CLM-Q3-01123,POL-10114,Mohit Shah,North,Health,2026-09-28,0.282,Paid,
+CLM-Q3-01124,POL-10014,Amit Banerjee,North,Health,2026-09-28,0.409,Paid,
+CLM-Q3-01125,POL-10619,Neha Kumar,South,Motor,2026-09-28,0.673,Paid,
+CLM-Q3-01126,POL-10499,Varun Mishra,South,Motor,2026-09-28,0.238,Paid,
+CLM-Q3-01127,POL-10650,Gaurav Das,South,Property,2026-09-28,0.581,Paid,
+CLM-Q3-01128,POL-10649,Harsh Reddy,South,Property,2026-09-28,0.567,Paid,Garage estimate revised
+CLM-Q3-01129,POL-10632,Shweta Verma,South,Motor,2026-09-28,0.498,Paid,
+CLM-Q3-01130,POL-10496,Gaurav Nair,South,Travel,2026-09-28,0.057,Paid,Reimbursement - bills attached
+CLM-Q3-01131,POL-10432,Komal Verma,South,Travel,2026-09-28,0.071,Paid,
+CLM-Q3-01132,POL-10622,Aarav Pillai,South,Property,2026-09-28,0.259,Paid,
+CLM-Q3-01133,POL-10379,Komal Shah,West,Motor,2026-09-28,0.343,Paid,
+CLM-Q3-01134,POL-10757,Arjun Verma,East,Motor,2026-09-29,0.355,Paid,
+CLM-Q3-01135,POL-10673,Anita Gupta,East,Health,2026-09-29,0.252,Paid,Fast-track approval
+CLM-Q3-01136,POL-10036,Aarav Chatterjee,North,Motor,2026-09-29,0.466,Paid,Fast-track approval
+CLM-Q3-01137,POL-10185,Sunita Pillai,North,Travel,2026-09-29,0.118,Paid,Fast-track approval
+CLM-Q3-01138,POL-10448,Vivaan Pillai,South,Motor,2026-09-29,0.308,Paid,
+CLM-Q3-01139,POL-10528,Rahul Khan,South,Health,2026-09-29,0.467,Paid,
+CLM-Q3-01140,POL-10550,Anil Bose,South,Motor,2026-09-29,0.191,Paid,Second inspection done
+CLM-Q3-01141,POL-10615,Arjun Sharma,South,Health,2026-09-29,0.985,Paid,
+CLM-Q3-01142,POL-10306,Shweta Singh,West,Health,2026-09-29,0.376,Paid,
+CLM-Q3-01143,POL-10291,Arjun Tiwari,West,Motor,2026-09-29,0.161,Paid,
+CLM-Q3-01144,POL-10749,Anita Mishra,East,Health,2026-09-30,0.383,Paid,
+CLM-Q3-01145,POL-10151,Suresh Kumar,North,Health,2026-09-30,0.233,Paid,
+CLM-Q3-01146,POL-10206,Sunita Nair,North,Health,2026-09-30,0.251,Paid,
+CLM-Q3-01147,POL-10001,Amit Reddy,North,Health,2026-09-30,0.221,Paid,
+CLM-Q3-01148,POL-10483,Vikram Kulkarni,South,Motor,2026-09-30,0.785,Paid,
+CLM-Q3-01149,POL-10459,Gaurav Sinha,South,Motor,2026-09-30,0.296,Paid,
+CLM-Q3-01150,POL-10316,Pankaj Agarwal,West,Health,2026-09-30,0.281,Paid,
+CLM-Q3-01151,POL-10245,Neha Ansari,West,Property,2026-09-30,0.832,Paid,
+CLM-Q3-01152,POL-10390,Nisha Sinha,West,Motor,2026-09-30,0.239,Paid,
